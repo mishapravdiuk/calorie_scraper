@@ -1,0 +1,167 @@
+[
+    {
+        "title": "Capon",
+        "serving": "100g",
+        "calories": "229 cal"
+    },
+    {
+        "title": "Chicken",
+        "serving": "100g",
+        "calories": "219 cal"
+    },
+    {
+        "title": "Chicken Breast",
+        "serving": "100g",
+        "calories": "172 cal"
+    },
+    {
+        "title": "Chicken Drumsticks",
+        "serving": "100g",
+        "calories": "185 cal"
+    },
+    {
+        "title": "Chicken Gizzards",
+        "serving": "100g",
+        "calories": "154 cal"
+    },
+    {
+        "title": "Chicken Legs",
+        "serving": "100g",
+        "calories": "174 cal"
+    },
+    {
+        "title": "Chicken Thighs",
+        "serving": "100g",
+        "calories": "229 cal"
+    },
+    {
+        "title": "Chicken Wings",
+        "serving": "100g",
+        "calories": "266 cal"
+    },
+    {
+        "title": "Cornish Hens",
+        "serving": "100g",
+        "calories": "259 cal"
+    },
+    {
+        "title": "Dove",
+        "serving": "100g",
+        "calories": "213 cal"
+    },
+    {
+        "title": "Duck",
+        "serving": "100g",
+        "calories": "337 cal"
+    },
+    {
+        "title": "Duck Breast",
+        "serving": "100g",
+        "calories": "201 cal"
+    },
+    {
+        "title": "Emu",
+        "serving": "100g",
+        "calories": "152 cal"
+    },
+    {
+        "title": "Goose",
+        "serving": "100g",
+        "calories": "305 cal"
+    },
+    {
+        "title": "Guinea-Fowl",
+        "serving": "100g",
+        "calories": "158 cal"
+    },
+    {
+        "title": "Ostrich",
+        "serving": "100g",
+        "calories": "145 cal"
+    },
+    {
+        "title": "Ostrich Meat",
+        "serving": "100g",
+        "calories": "145 cal"
+    },
+    {
+        "title": "Pheasant",
+        "serving": "100g",
+        "calories": "239 cal"
+    },
+    {
+        "title": "Pheasant Breast",
+        "serving": "100g",
+        "calories": "133 cal"
+    },
+    {
+        "title": "Pheasant Leg",
+        "serving": "100g",
+        "calories": "239 cal"
+    },
+    {
+        "title": "Pigeon",
+        "serving": "100g",
+        "calories": "142 cal"
+    },
+    {
+        "title": "Poularde",
+        "serving": "100g",
+        "calories": "200 cal"
+    },
+    {
+        "title": "Quail",
+        "serving": "100g",
+        "calories": "227 cal"
+    },
+    {
+        "title": "Quail Breast",
+        "serving": "100g",
+        "calories": "123 cal"
+    },
+    {
+        "title": "Rhea",
+        "serving": "100g",
+        "calories": "160 cal"
+    },
+    {
+        "title": "Turkey",
+        "serving": "100g",
+        "calories": "189 cal"
+    },
+    {
+        "title": "Turkey Breast",
+        "serving": "100g",
+        "calories": "135 cal"
+    },
+    {
+        "title": "Turkey Cutlet",
+        "serving": "100g",
+        "calories": "189 cal"
+    },
+    {
+        "title": "Turkey Drumsticks",
+        "serving": "100g",
+        "calories": "208 cal"
+    },
+    {
+        "title": "Turkey Legs",
+        "serving": "100g",
+        "calories": "208 cal"
+    },
+    {
+        "title": "Turkey Steak",
+        "serving": "100g",
+        "calories": "189 cal"
+    },
+    {
+        "title": "Turkey Wings",
+        "serving": "100g",
+        "calories": "221 cal"
+    },
+    {
+        "title": "Wild Duck",
+        "serving": "100g",
+        "calories": "211 cal"
+    }
+]

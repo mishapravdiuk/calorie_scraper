@@ -1,0 +1,312 @@
+[
+    {
+        "title": "Azuki Bean",
+        "serving": "100g",
+        "calories": "124 cal"
+    },
+    {
+        "title": "Bamboo Shoots",
+        "serving": "100g",
+        "calories": "27 cal"
+    },
+    {
+        "title": "Bean Curd",
+        "serving": "100g",
+        "calories": "76 cal"
+    },
+    {
+        "title": "Bean Sprouts",
+        "serving": "100g",
+        "calories": "30 cal"
+    },
+    {
+        "title": "Bengal Gram",
+        "serving": "100g",
+        "calories": "364 cal"
+    },
+    {
+        "title": "Black Beans",
+        "serving": "100g",
+        "calories": "341 cal"
+    },
+    {
+        "title": "Black Chickpeas",
+        "serving": "100g",
+        "calories": "364 cal"
+    },
+    {
+        "title": "Black Gram",
+        "serving": "100g",
+        "calories": "341 cal"
+    },
+    {
+        "title": "Brown Lentil",
+        "serving": "100g",
+        "calories": "353 cal"
+    },
+    {
+        "title": "Butternut",
+        "serving": "100g",
+        "calories": "612 cal"
+    },
+    {
+        "title": "Chickpeas",
+        "serving": "100g",
+        "calories": "364 cal"
+    },
+    {
+        "title": "Chili Bean",
+        "serving": "100g",
+        "calories": "97 cal"
+    },
+    {
+        "title": "Dal",
+        "serving": "100g",
+        "calories": "230 cal"
+    },
+    {
+        "title": "Deep-Fried Tofu",
+        "serving": "100g",
+        "calories": "271 cal"
+    },
+    {
+        "title": "Extra-Firm Tofu",
+        "serving": "100g",
+        "calories": "91 cal"
+    },
+    {
+        "title": "Firm Tofu",
+        "serving": "100g",
+        "calories": "70 cal"
+    },
+    {
+        "title": "Flageolet",
+        "serving": "100g",
+        "calories": "85 cal"
+    },
+    {
+        "title": "Fried Bean Curd",
+        "serving": "100g",
+        "calories": "271 cal"
+    },
+    {
+        "title": "Green Beans",
+        "serving": "100g",
+        "calories": "31 cal"
+    },
+    {
+        "title": "Green Gram",
+        "serving": "100g",
+        "calories": "347 cal"
+    },
+    {
+        "title": "Green Lentil",
+        "serving": "100g",
+        "calories": "257 cal"
+    },
+    {
+        "title": "Kidney Beans",
+        "serving": "100g",
+        "calories": "337 cal"
+    },
+    {
+        "title": "Lentils",
+        "serving": "100g",
+        "calories": "353 cal"
+    },
+    {
+        "title": "Lima Beans",
+        "serving": "100g",
+        "calories": "71 cal"
+    },
+    {
+        "title": "Marron",
+        "serving": "100g",
+        "calories": "210 cal"
+    },
+    {
+        "title": "Miso",
+        "serving": "100g",
+        "calories": "199 cal"
+    },
+    {
+        "title": "Mung Beans",
+        "serving": "100g",
+        "calories": "12 cal"
+    },
+    {
+        "title": "Natto",
+        "serving": "100g",
+        "calories": "212 cal"
+    },
+    {
+        "title": "Navy Bean",
+        "serving": "100g",
+        "calories": "337 cal"
+    },
+    {
+        "title": "Okara",
+        "serving": "100g",
+        "calories": "77 cal"
+    },
+    {
+        "title": "Okra",
+        "serving": "100g",
+        "calories": "33 cal"
+    },
+    {
+        "title": "Peanuts",
+        "serving": "100g",
+        "calories": "567 cal"
+    },
+    {
+        "title": "Peas",
+        "serving": "100g",
+        "calories": "42 cal"
+    },
+    {
+        "title": "Pecan",
+        "serving": "100g",
+        "calories": "691 cal"
+    },
+    {
+        "title": "Pinto Beans",
+        "serving": "100g",
+        "calories": "347 cal"
+    },
+    {
+        "title": "Puy Lentils",
+        "serving": "100g",
+        "calories": "345 cal"
+    },
+    {
+        "title": "Rajma",
+        "serving": "100g",
+        "calories": "140 cal"
+    },
+    {
+        "title": "Red Beans",
+        "serving": "100g",
+        "calories": "124 cal"
+    },
+    {
+        "title": "Red Kidney Bean",
+        "serving": "100g",
+        "calories": "337 cal"
+    },
+    {
+        "title": "Red Lentils",
+        "serving": "100g",
+        "calories": "329 cal"
+    },
+    {
+        "title": "Refried Beans",
+        "serving": "100g",
+        "calories": "91 cal"
+    },
+    {
+        "title": "Roasted Soybeans",
+        "serving": "100g",
+        "calories": "471 cal"
+    },
+    {
+        "title": "Silken Tofu",
+        "serving": "100g",
+        "calories": "55 cal"
+    },
+    {
+        "title": "Soft Tofu",
+        "serving": "100g",
+        "calories": "61 cal"
+    },
+    {
+        "title": "Soy Cheese",
+        "serving": "100g",
+        "calories": "235 cal"
+    },
+    {
+        "title": "Soy Mayonnaise",
+        "serving": "100g",
+        "calories": "322 cal"
+    },
+    {
+        "title": "Soy Nut Butter",
+        "serving": "100g",
+        "calories": "562 cal"
+    },
+    {
+        "title": "Soy Nuts",
+        "serving": "100g",
+        "calories": "471 cal"
+    },
+    {
+        "title": "Soy Yogurt",
+        "serving": "100g",
+        "calories": "66 cal"
+    },
+    {
+        "title": "Soya Cheese",
+        "serving": "100g",
+        "calories": "235 cal"
+    },
+    {
+        "title": "Soybeans",
+        "serving": "100g",
+        "calories": "147 cal"
+    },
+    {
+        "title": "Soynut Butter",
+        "serving": "100g",
+        "calories": "562 cal"
+    },
+    {
+        "title": "Sugar Peas",
+        "serving": "100g",
+        "calories": "42 cal"
+    },
+    {
+        "title": "Sweet Peas",
+        "serving": "100g",
+        "calories": "48 cal"
+    },
+    {
+        "title": "Tempeh",
+        "serving": "100g",
+        "calories": "193 cal"
+    },
+    {
+        "title": "Textured Soy Protein",
+        "serving": "100g",
+        "calories": "571 cal"
+    },
+    {
+        "title": "Textured Vegetable Protein",
+        "serving": "100g",
+        "calories": "333 cal"
+    },
+    {
+        "title": "Tofu",
+        "serving": "100g",
+        "calories": "76 cal"
+    },
+    {
+        "title": "White Beans",
+        "serving": "100g",
+        "calories": "336 cal"
+    },
+    {
+        "title": "Yam Bean",
+        "serving": "100g",
+        "calories": "38 cal"
+    },
+    {
+        "title": "Yellow Lentils",
+        "serving": "100g",
+        "calories": "304 cal"
+    },
+    {
+        "title": "Yuba",
+        "serving": "100g",
+        "calories": "176 cal"
+    }
+]

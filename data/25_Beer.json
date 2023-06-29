@@ -1,0 +1,427 @@
+[
+    {
+        "title": "Ale",
+        "serving": "100ml",
+        "calories": "35 cal"
+    },
+    {
+        "title": "Altbier",
+        "serving": "100ml",
+        "calories": "43 cal"
+    },
+    {
+        "title": "Bass",
+        "serving": "100ml",
+        "calories": "45 cal"
+    },
+    {
+        "title": "Beck’s",
+        "serving": "100ml",
+        "calories": "39 cal"
+    },
+    {
+        "title": "Beer",
+        "serving": "100ml",
+        "calories": "43 cal"
+    },
+    {
+        "title": "Blue Moon",
+        "serving": "100ml",
+        "calories": "48 cal"
+    },
+    {
+        "title": "Bock Beer",
+        "serving": "100ml",
+        "calories": "50 cal"
+    },
+    {
+        "title": "Buckler (N.A.)",
+        "serving": "100ml",
+        "calories": "21 cal"
+    },
+    {
+        "title": "Bud Ice",
+        "serving": "100ml",
+        "calories": "35 cal"
+    },
+    {
+        "title": "Bud Light",
+        "serving": "100ml",
+        "calories": "29 cal"
+    },
+    {
+        "title": "Bud Light Chelada",
+        "serving": "100ml",
+        "calories": "43 cal"
+    },
+    {
+        "title": "Bud Light Lime",
+        "serving": "100ml",
+        "calories": "34 cal"
+    },
+    {
+        "title": "Bud Select",
+        "serving": "100ml",
+        "calories": "28 cal"
+    },
+    {
+        "title": "Bud Select 55",
+        "serving": "100ml",
+        "calories": "15 cal"
+    },
+    {
+        "title": "Budweiser",
+        "serving": "100ml",
+        "calories": "41 cal"
+    },
+    {
+        "title": "Budweiser Chelada",
+        "serving": "100ml",
+        "calories": "52 cal"
+    },
+    {
+        "title": "Busch",
+        "serving": "100ml",
+        "calories": "37 cal"
+    },
+    {
+        "title": "Busch Light",
+        "serving": "100ml",
+        "calories": "27 cal"
+    },
+    {
+        "title": "Busch N.A.",
+        "serving": "100ml",
+        "calories": "17 cal"
+    },
+    {
+        "title": "Carlsberg",
+        "serving": "100ml",
+        "calories": "32 cal"
+    },
+    {
+        "title": "Clausthaler (N.A.)",
+        "serving": "100ml",
+        "calories": "26 cal"
+    },
+    {
+        "title": "Colt 45",
+        "serving": "100ml",
+        "calories": "44 cal"
+    },
+    {
+        "title": "Coors",
+        "serving": "100ml",
+        "calories": "42 cal"
+    },
+    {
+        "title": "Coors Light",
+        "serving": "100ml",
+        "calories": "29 cal"
+    },
+    {
+        "title": "Coors N.A.",
+        "serving": "100ml",
+        "calories": "18 cal"
+    },
+    {
+        "title": "Corona",
+        "serving": "100ml",
+        "calories": "42 cal"
+    },
+    {
+        "title": "Dark Beer",
+        "serving": "100ml",
+        "calories": "46 cal"
+    },
+    {
+        "title": "Genesee Cream Ale",
+        "serving": "100ml",
+        "calories": "46 cal"
+    },
+    {
+        "title": "Ginger Beer",
+        "serving": "100ml",
+        "calories": "42 cal"
+    },
+    {
+        "title": "Guinness",
+        "serving": "100ml",
+        "calories": "35 cal"
+    },
+    {
+        "title": "Heineken",
+        "serving": "100ml",
+        "calories": "35 cal"
+    },
+    {
+        "title": "Honey Brown",
+        "serving": "100ml",
+        "calories": "42 cal"
+    },
+    {
+        "title": "Hurricane High Gravity",
+        "serving": "100ml",
+        "calories": "39 cal"
+    },
+    {
+        "title": "IPA",
+        "serving": "100ml",
+        "calories": "51 cal"
+    },
+    {
+        "title": "Keystone Ice",
+        "serving": "100ml",
+        "calories": "40 cal"
+    },
+    {
+        "title": "Keystone Light",
+        "serving": "100ml",
+        "calories": "29 cal"
+    },
+    {
+        "title": "Koelsch",
+        "serving": "100ml",
+        "calories": "43 cal"
+    },
+    {
+        "title": "Labatt",
+        "serving": "100ml",
+        "calories": "43 cal"
+    },
+    {
+        "title": "Lager Beer",
+        "serving": "100ml",
+        "calories": "43 cal"
+    },
+    {
+        "title": "Land Shark",
+        "serving": "100ml",
+        "calories": "42 cal"
+    },
+    {
+        "title": "Light Beer",
+        "serving": "100ml",
+        "calories": "29 cal"
+    },
+    {
+        "title": "Lowenbrau",
+        "serving": "100ml",
+        "calories": "45 cal"
+    },
+    {
+        "title": "Malt Beer",
+        "serving": "100ml",
+        "calories": "37 cal"
+    },
+    {
+        "title": "Michelob Amber Bock",
+        "serving": "100ml",
+        "calories": "47 cal"
+    },
+    {
+        "title": "Michelob Lager",
+        "serving": "100ml",
+        "calories": "44 cal"
+    },
+    {
+        "title": "Michelob Light",
+        "serving": "100ml",
+        "calories": "32 cal"
+    },
+    {
+        "title": "Michelob Ultra",
+        "serving": "100ml",
+        "calories": "27 cal"
+    },
+    {
+        "title": "Michelob Ultra Amber",
+        "serving": "100ml",
+        "calories": "26 cal"
+    },
+    {
+        "title": "Michelob Ultra Lime Cactus",
+        "serving": "100ml",
+        "calories": "27 cal"
+    },
+    {
+        "title": "Miller Chill",
+        "serving": "100ml",
+        "calories": "31 cal"
+    },
+    {
+        "title": "Miller Genuine Draft",
+        "serving": "100ml",
+        "calories": "40 cal"
+    },
+    {
+        "title": "Miller High Life",
+        "serving": "100ml",
+        "calories": "40 cal"
+    },
+    {
+        "title": "Miller High Life Light",
+        "serving": "100ml",
+        "calories": "31 cal"
+    },
+    {
+        "title": "Miller Lite",
+        "serving": "100ml",
+        "calories": "27 cal"
+    },
+    {
+        "title": "Milwaukee’s Best",
+        "serving": "100ml",
+        "calories": "36 cal"
+    },
+    {
+        "title": "Milwaukee’s Best Light",
+        "serving": "100ml",
+        "calories": "28 cal"
+    },
+    {
+        "title": "Molson",
+        "serving": "100ml",
+        "calories": "42 cal"
+    },
+    {
+        "title": "Natural Ice",
+        "serving": "100ml",
+        "calories": "44 cal"
+    },
+    {
+        "title": "Natural Light",
+        "serving": "100ml",
+        "calories": "27 cal"
+    },
+    {
+        "title": "Newcastle",
+        "serving": "100ml",
+        "calories": "39 cal"
+    },
+    {
+        "title": "Non-alcoholic Beer",
+        "serving": "100ml",
+        "calories": "37 cal"
+    },
+    {
+        "title": "O’Doul’s (N.A.)",
+        "serving": "100ml",
+        "calories": "19 cal"
+    },
+    {
+        "title": "Old Milwaukee",
+        "serving": "100ml",
+        "calories": "41 cal"
+    },
+    {
+        "title": "Old Milwaukee N.A.",
+        "serving": "100ml",
+        "calories": "16 cal"
+    },
+    {
+        "title": "Olde English",
+        "serving": "100ml",
+        "calories": "45 cal"
+    },
+    {
+        "title": "Pabst Blue Ribbon",
+        "serving": "100ml",
+        "calories": "41 cal"
+    },
+    {
+        "title": "Pale Ale",
+        "serving": "100ml",
+        "calories": "42 cal"
+    },
+    {
+        "title": "Pilsner",
+        "serving": "100ml",
+        "calories": "43 cal"
+    },
+    {
+        "title": "Porter",
+        "serving": "100ml",
+        "calories": "54 cal"
+    },
+    {
+        "title": "Redbridge (Gluten-free)",
+        "serving": "100ml",
+        "calories": "45 cal"
+    },
+    {
+        "title": "Rolling Rock",
+        "serving": "100ml",
+        "calories": "37 cal"
+    },
+    {
+        "title": "Rolling Rock Light",
+        "serving": "100ml",
+        "calories": "30 cal"
+    },
+    {
+        "title": "Root Beer",
+        "serving": "100ml",
+        "calories": "41 cal"
+    },
+    {
+        "title": "Samuel Adams",
+        "serving": "100ml",
+        "calories": "45 cal"
+    },
+    {
+        "title": "Shock Top",
+        "serving": "100ml",
+        "calories": "47 cal"
+    },
+    {
+        "title": "Shock Top Raspberry Wheat",
+        "serving": "100ml",
+        "calories": "50 cal"
+    },
+    {
+        "title": "Sierra Nevada Strong",
+        "serving": "100ml",
+        "calories": "62 cal"
+    },
+    {
+        "title": "Sparks",
+        "serving": "100ml",
+        "calories": "74 cal"
+    },
+    {
+        "title": "St. Pauli Girl",
+        "serving": "100ml",
+        "calories": "42 cal"
+    },
+    {
+        "title": "Steel Reserve",
+        "serving": "100ml",
+        "calories": "63 cal"
+    },
+    {
+        "title": "Stout",
+        "serving": "100ml",
+        "calories": "51 cal"
+    },
+    {
+        "title": "Stout Beer",
+        "serving": "100ml",
+        "calories": "51 cal"
+    },
+    {
+        "title": "Strong Beer",
+        "serving": "100ml",
+        "calories": "55 cal"
+    },
+    {
+        "title": "Tilt",
+        "serving": "100ml",
+        "calories": "64 cal"
+    },
+    {
+        "title": "Wheat Beer",
+        "serving": "100ml",
+        "calories": "45 cal"
+    }
+]

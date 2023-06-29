@@ -1,0 +1,197 @@
+[
+    {
+        "title": "Beef",
+        "serving": "100g",
+        "calories": "171 cal"
+    },
+    {
+        "title": "Beef Brisket",
+        "serving": "100g",
+        "calories": "137 cal"
+    },
+    {
+        "title": "Beef Fillet",
+        "serving": "100g",
+        "calories": "189 cal"
+    },
+    {
+        "title": "Beef Goulash",
+        "serving": "100g",
+        "calories": "123 cal"
+    },
+    {
+        "title": "Beef Minute Steak",
+        "serving": "100g",
+        "calories": "133 cal"
+    },
+    {
+        "title": "Beef Neck",
+        "serving": "100g",
+        "calories": "213 cal"
+    },
+    {
+        "title": "Beef Pancreas",
+        "serving": "100g",
+        "calories": "271 cal"
+    },
+    {
+        "title": "Beef Patty",
+        "serving": "100g",
+        "calories": "247 cal"
+    },
+    {
+        "title": "Beef Prime Rib",
+        "serving": "100g",
+        "calories": "404 cal"
+    },
+    {
+        "title": "Beef Ribs",
+        "serving": "100g",
+        "calories": "196 cal"
+    },
+    {
+        "title": "Beef Sirloin",
+        "serving": "100g",
+        "calories": "182 cal"
+    },
+    {
+        "title": "Beef Suet",
+        "serving": "100g",
+        "calories": "854 cal"
+    },
+    {
+        "title": "Beef Tallow",
+        "serving": "100g",
+        "calories": "902 cal"
+    },
+    {
+        "title": "Beef Thymus",
+        "serving": "100g",
+        "calories": "319 cal"
+    },
+    {
+        "title": "Beef Tripe",
+        "serving": "100g",
+        "calories": "94 cal"
+    },
+    {
+        "title": "Chuck Roast",
+        "serving": "100g",
+        "calories": "141 cal"
+    },
+    {
+        "title": "Chuck Steak",
+        "serving": "100g",
+        "calories": "137 cal"
+    },
+    {
+        "title": "Filet Mignon",
+        "serving": "100g",
+        "calories": "207 cal"
+    },
+    {
+        "title": "Flank Steak",
+        "serving": "100g",
+        "calories": "194 cal"
+    },
+    {
+        "title": "Ground Beef",
+        "serving": "100g",
+        "calories": "241 cal"
+    },
+    {
+        "title": "Ground Chuck",
+        "serving": "100g",
+        "calories": "250 cal"
+    },
+    {
+        "title": "Ground Round",
+        "serving": "100g",
+        "calories": "212 cal"
+    },
+    {
+        "title": "Minced Veal",
+        "serving": "100g",
+        "calories": "143 cal"
+    },
+    {
+        "title": "Porterhouse Steak",
+        "serving": "100g",
+        "calories": "247 cal"
+    },
+    {
+        "title": "Rib Eye Steak",
+        "serving": "100g",
+        "calories": "217 cal"
+    },
+    {
+        "title": "Roast Beef",
+        "serving": "100g",
+        "calories": "187 cal"
+    },
+    {
+        "title": "Rump Steak",
+        "serving": "100g",
+        "calories": "171 cal"
+    },
+    {
+        "title": "Skirt Steak",
+        "serving": "100g",
+        "calories": "205 cal"
+    },
+    {
+        "title": "Stew Beef",
+        "serving": "100g",
+        "calories": "191 cal"
+    },
+    {
+        "title": "Strip Steak",
+        "serving": "100g",
+        "calories": "117 cal"
+    },
+    {
+        "title": "T-Bone-Steak",
+        "serving": "100g",
+        "calories": "221 cal"
+    },
+    {
+        "title": "Veal",
+        "serving": "100g",
+        "calories": "282 cal"
+    },
+    {
+        "title": "Veal Breast",
+        "serving": "100g",
+        "calories": "282 cal"
+    },
+    {
+        "title": "Veal Leg",
+        "serving": "100g",
+        "calories": "211 cal"
+    },
+    {
+        "title": "Veal Roast Beef",
+        "serving": "100g",
+        "calories": "175 cal"
+    },
+    {
+        "title": "Veal Shank",
+        "serving": "100g",
+        "calories": "177 cal"
+    },
+    {
+        "title": "Veal Shoulder",
+        "serving": "100g",
+        "calories": "183 cal"
+    },
+    {
+        "title": "Veal Sirloin",
+        "serving": "100g",
+        "calories": "204 cal"
+    },
+    {
+        "title": "Veal Tenderloin",
+        "serving": "100g",
+        "calories": "217 cal"
+    }
+]

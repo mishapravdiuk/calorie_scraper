@@ -1,0 +1,197 @@
+[
+    {
+        "title": "Cabernet Sauvignon",
+        "serving": "100ml",
+        "calories": "77 cal"
+    },
+    {
+        "title": "Cava",
+        "serving": "100ml",
+        "calories": "76 cal"
+    },
+    {
+        "title": "Champagne",
+        "serving": "100ml",
+        "calories": "76 cal"
+    },
+    {
+        "title": "Chardonnay",
+        "serving": "100ml",
+        "calories": "85 cal"
+    },
+    {
+        "title": "Chenin Blanc",
+        "serving": "100ml",
+        "calories": "80 cal"
+    },
+    {
+        "title": "Chocolate Wine",
+        "serving": "100ml",
+        "calories": "256 cal"
+    },
+    {
+        "title": "Dry Red Wine",
+        "serving": "100ml",
+        "calories": "85 cal"
+    },
+    {
+        "title": "Gamay",
+        "serving": "100ml",
+        "calories": "78 cal"
+    },
+    {
+        "title": "Malbec",
+        "serving": "100ml",
+        "calories": "82 cal"
+    },
+    {
+        "title": "Malbec Wine",
+        "serving": "100ml",
+        "calories": "82 cal"
+    },
+    {
+        "title": "Marsala Wine",
+        "serving": "100ml",
+        "calories": "100 cal"
+    },
+    {
+        "title": "Merlot",
+        "serving": "100ml",
+        "calories": "83 cal"
+    },
+    {
+        "title": "Merlot Wine",
+        "serving": "100ml",
+        "calories": "83 cal"
+    },
+    {
+        "title": "Moscato Wine",
+        "serving": "100ml",
+        "calories": "76 cal"
+    },
+    {
+        "title": "Mulled Wine",
+        "serving": "100ml",
+        "calories": "196 cal"
+    },
+    {
+        "title": "Pinot Gris",
+        "serving": "100ml",
+        "calories": "83 cal"
+    },
+    {
+        "title": "Pinot Noir",
+        "serving": "100ml",
+        "calories": "75 cal"
+    },
+    {
+        "title": "Plum Wine",
+        "serving": "100ml",
+        "calories": "163 cal"
+    },
+    {
+        "title": "Port Wine",
+        "serving": "100ml",
+        "calories": "160 cal"
+    },
+    {
+        "title": "Prosecco",
+        "serving": "100ml",
+        "calories": "71 cal"
+    },
+    {
+        "title": "Red Wine",
+        "serving": "100ml",
+        "calories": "85 cal"
+    },
+    {
+        "title": "Red Wines",
+        "serving": "100ml",
+        "calories": "85 cal"
+    },
+    {
+        "title": "Riesling",
+        "serving": "100ml",
+        "calories": "80 cal"
+    },
+    {
+        "title": "Riesling Wine",
+        "serving": "100ml",
+        "calories": "80 cal"
+    },
+    {
+        "title": "Rose Wine",
+        "serving": "100ml",
+        "calories": "71 cal"
+    },
+    {
+        "title": "Sangria",
+        "serving": "100ml",
+        "calories": "132 cal"
+    },
+    {
+        "title": "Sauvignon Blanc",
+        "serving": "100ml",
+        "calories": "81 cal"
+    },
+    {
+        "title": "Sherry",
+        "serving": "100ml",
+        "calories": "116 cal"
+    },
+    {
+        "title": "Shiraz",
+        "serving": "100ml",
+        "calories": "71 cal"
+    },
+    {
+        "title": "Sparkling Wine",
+        "serving": "100ml",
+        "calories": "190 cal"
+    },
+    {
+        "title": "Sweet Red Wine",
+        "serving": "100ml",
+        "calories": "81 cal"
+    },
+    {
+        "title": "Sweet White Wine",
+        "serving": "100ml",
+        "calories": "82 cal"
+    },
+    {
+        "title": "Sweet Wines",
+        "serving": "100ml",
+        "calories": "83 cal"
+    },
+    {
+        "title": "Vermouth",
+        "serving": "100ml",
+        "calories": "108 cal"
+    },
+    {
+        "title": "White Wine",
+        "serving": "100ml",
+        "calories": "82 cal"
+    },
+    {
+        "title": "White Zinfandel",
+        "serving": "100ml",
+        "calories": "88 cal"
+    },
+    {
+        "title": "Wine",
+        "serving": "100ml",
+        "calories": "83 cal"
+    },
+    {
+        "title": "Yellow Tail Wine",
+        "serving": "100ml",
+        "calories": "71 cal"
+    },
+    {
+        "title": "Zinfandel",
+        "serving": "100ml",
+        "calories": "88 cal"
+    }
+]

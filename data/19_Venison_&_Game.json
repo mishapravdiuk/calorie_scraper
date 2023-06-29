@@ -1,0 +1,182 @@
+[
+    {
+        "title": "Alligator",
+        "serving": "100g",
+        "calories": "104 cal"
+    },
+    {
+        "title": "Alligator Meat",
+        "serving": "100g",
+        "calories": "232 cal"
+    },
+    {
+        "title": "Antelope Meat",
+        "serving": "100g",
+        "calories": "150 cal"
+    },
+    {
+        "title": "Bear Meat",
+        "serving": "100g",
+        "calories": "259 cal"
+    },
+    {
+        "title": "Beaver Meat",
+        "serving": "100g",
+        "calories": "212 cal"
+    },
+    {
+        "title": "Bison",
+        "serving": "100g",
+        "calories": "171 cal"
+    },
+    {
+        "title": "Bison Meat",
+        "serving": "100g",
+        "calories": "171 cal"
+    },
+    {
+        "title": "Bison Sirloin",
+        "serving": "100g",
+        "calories": "171 cal"
+    },
+    {
+        "title": "Buffalo",
+        "serving": "100g",
+        "calories": "131 cal"
+    },
+    {
+        "title": "Buffalo Meat",
+        "serving": "100g",
+        "calories": "131 cal"
+    },
+    {
+        "title": "Caribou",
+        "serving": "100g",
+        "calories": "159 cal"
+    },
+    {
+        "title": "Goose",
+        "serving": "100g",
+        "calories": "238 cal"
+    },
+    {
+        "title": "Goose Meat",
+        "serving": "100g",
+        "calories": "238 cal"
+    },
+    {
+        "title": "Lamb",
+        "serving": "100g",
+        "calories": "202 cal"
+    },
+    {
+        "title": "Lamb Meat",
+        "serving": "100g",
+        "calories": "202 cal"
+    },
+    {
+        "title": "Mallard Duck Meat",
+        "serving": "100g",
+        "calories": "211 cal"
+    },
+    {
+        "title": "Mallard Meat",
+        "serving": "100g",
+        "calories": "211 cal"
+    },
+    {
+        "title": "Moose",
+        "serving": "100g",
+        "calories": "134 cal"
+    },
+    {
+        "title": "Moose Meat",
+        "serving": "100g",
+        "calories": "134 cal"
+    },
+    {
+        "title": "Mutton",
+        "serving": "100g",
+        "calories": "234 cal"
+    },
+    {
+        "title": "Mutton Meat",
+        "serving": "100g",
+        "calories": "234 cal"
+    },
+    {
+        "title": "Ostrich",
+        "serving": "100g",
+        "calories": "175 cal"
+    },
+    {
+        "title": "Ostrich Meat",
+        "serving": "100g",
+        "calories": "175 cal"
+    },
+    {
+        "title": "Pheasant",
+        "serving": "100g",
+        "calories": "239 cal"
+    },
+    {
+        "title": "Pheasant Meat",
+        "serving": "100g",
+        "calories": "239 cal"
+    },
+    {
+        "title": "Rabbit",
+        "serving": "100g",
+        "calories": "197 cal"
+    },
+    {
+        "title": "Racoon",
+        "serving": "100g",
+        "calories": "255 cal"
+    },
+    {
+        "title": "Racoon Meat",
+        "serving": "100g",
+        "calories": "255 cal"
+    },
+    {
+        "title": "Reindeer",
+        "serving": "100g",
+        "calories": "200 cal"
+    },
+    {
+        "title": "Reindeer Meat",
+        "serving": "100g",
+        "calories": "200 cal"
+    },
+    {
+        "title": "Squirrel",
+        "serving": "100g",
+        "calories": "173 cal"
+    },
+    {
+        "title": "Squirrel Meat",
+        "serving": "100g",
+        "calories": "173 cal"
+    },
+    {
+        "title": "Venison",
+        "serving": "100g",
+        "calories": "164 cal"
+    },
+    {
+        "title": "Venison Sirloin",
+        "serving": "100g",
+        "calories": "158 cal"
+    },
+    {
+        "title": "Wild Boar",
+        "serving": "100g",
+        "calories": "160 cal"
+    },
+    {
+        "title": "Wild Boar Meat",
+        "serving": "100g",
+        "calories": "160 cal"
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "title": "Absinthe",
+        "serving": "100ml",
+        "calories": "348 cal"
+    },
+    {
+        "title": "Advocaat",
+        "serving": "100ml",
+        "calories": "283 cal"
+    },
+    {
+        "title": "Amaretto",
+        "serving": "100ml",
+        "calories": "310 cal"
+    },
+    {
+        "title": "Applejack",
+        "serving": "100ml",
+        "calories": "233 cal"
+    },
+    {
+        "title": "Asti",
+        "serving": "100ml",
+        "calories": "138 cal"
+    },
+    {
+        "title": "Bailey’s Irish Cream",
+        "serving": "100ml",
+        "calories": "327 cal"
+    },
+    {
+        "title": "Baileys",
+        "serving": "100ml",
+        "calories": "327 cal"
+    },
+    {
+        "title": "Beer",
+        "serving": "100ml",
+        "calories": "43 cal"
+    },
+    {
+        "title": "Blue Curacao",
+        "serving": "100ml",
+        "calories": "243 cal"
+    },
+    {
+        "title": "Bourbon",
+        "serving": "100ml",
+        "calories": "233 cal"
+    },
+    {
+        "title": "Brandy",
+        "serving": "100ml",
+        "calories": "213 cal"
+    },
+    {
+        "title": "Canadian Whiskey",
+        "serving": "100ml",
+        "calories": "216 cal"
+    },
+    {
+        "title": "Chambord",
+        "serving": "100ml",
+        "calories": "348 cal"
+    },
+    {
+        "title": "Champagne",
+        "serving": "100ml",
+        "calories": "75 cal"
+    },
+    {
+        "title": "Cider",
+        "serving": "100ml",
+        "calories": "49 cal"
+    },
+    {
+        "title": "Cognac",
+        "serving": "100ml",
+        "calories": "235 cal"
+    },
+    {
+        "title": "Cointreau",
+        "serving": "100ml",
+        "calories": "320 cal"
+    },
+    {
+        "title": "Drambuie",
+        "serving": "100ml",
+        "calories": "358 cal"
+    },
+    {
+        "title": "Frangelico",
+        "serving": "100ml",
+        "calories": "238 cal"
+    },
+    {
+        "title": "Gin",
+        "serving": "100ml",
+        "calories": "263 cal"
+    },
+    {
+        "title": "Glenfiddich",
+        "serving": "100ml",
+        "calories": "230 cal"
+    },
+    {
+        "title": "Grand Marnier",
+        "serving": "100ml",
+        "calories": "253 cal"
+    },
+    {
+        "title": "Irish Whiskey",
+        "serving": "100ml",
+        "calories": "233 cal"
+    },
+    {
+        "title": "Jack Daniel’s",
+        "serving": "100ml",
+        "calories": "146 cal"
+    },
+    {
+        "title": "Jagermeister",
+        "serving": "100ml",
+        "calories": "250 cal"
+    },
+    {
+        "title": "Jim Beam",
+        "serving": "100ml",
+        "calories": "222 cal"
+    },
+    {
+        "title": "Kahlua",
+        "serving": "100ml",
+        "calories": "180 cal"
+    },
+    {
+        "title": "Liqueur",
+        "serving": "100ml",
+        "calories": "250 cal"
+    },
+    {
+        "title": "Liquor",
+        "serving": "100ml",
+        "calories": "250 cal"
+    },
+    {
+        "title": "Midori",
+        "serving": "100ml",
+        "calories": "267 cal"
+    },
+    {
+        "title": "Prosecco",
+        "serving": "100ml",
+        "calories": "66 cal"
+    },
+    {
+        "title": "Punch",
+        "serving": "100ml",
+        "calories": "62 cal"
+    },
+    {
+        "title": "Red Wine",
+        "serving": "100ml",
+        "calories": "85 cal"
+    },
+    {
+        "title": "Rose Wine",
+        "serving": "100ml",
+        "calories": "71 cal"
+    },
+    {
+        "title": "Rum",
+        "serving": "100ml",
+        "calories": "231 cal"
+    },
+    {
+        "title": "Sambuca",
+        "serving": "100ml",
+        "calories": "333 cal"
+    },
+    {
+        "title": "Sangria",
+        "serving": "100ml",
+        "calories": "96 cal"
+    },
+    {
+        "title": "Scotch",
+        "serving": "100ml",
+        "calories": "222 cal"
+    },
+    {
+        "title": "Sherry",
+        "serving": "100ml",
+        "calories": "116 cal"
+    },
+    {
+        "title": "Sloe Gin",
+        "serving": "100ml",
+        "calories": "332 cal"
+    },
+    {
+        "title": "Southern Comfort",
+        "serving": "100ml",
+        "calories": "247 cal"
+    },
+    {
+        "title": "Tequila",
+        "serving": "100ml",
+        "calories": "110 cal"
+    },
+    {
+        "title": "Triple Sec",
+        "serving": "100ml",
+        "calories": "153 cal"
+    },
+    {
+        "title": "Vermouth",
+        "serving": "100ml",
+        "calories": "130 cal"
+    },
+    {
+        "title": "Vodka",
+        "serving": "100ml",
+        "calories": "231 cal"
+    },
+    {
+        "title": "Whisky",
+        "serving": "100ml",
+        "calories": "250 cal"
+    },
+    {
+        "title": "White Wine",
+        "serving": "100ml",
+        "calories": "82 cal"
+    },
+    {
+        "title": "Wine",
+        "serving": "100ml",
+        "calories": "83 cal"
+    }
+]

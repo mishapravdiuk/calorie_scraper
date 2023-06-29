@@ -1,0 +1,317 @@
+[
+    {
+        "title": "Artichoke",
+        "serving": "100g",
+        "calories": "47 cal"
+    },
+    {
+        "title": "Arugula",
+        "serving": "100g",
+        "calories": "25 cal"
+    },
+    {
+        "title": "Asparagus",
+        "serving": "100g",
+        "calories": "20 cal"
+    },
+    {
+        "title": "Aubergine",
+        "serving": "100g",
+        "calories": "25 cal"
+    },
+    {
+        "title": "Beetroot",
+        "serving": "100g",
+        "calories": "43 cal"
+    },
+    {
+        "title": "Bell Pepper",
+        "serving": "100g",
+        "calories": "20 cal"
+    },
+    {
+        "title": "Black Olives",
+        "serving": "100g",
+        "calories": "115 cal"
+    },
+    {
+        "title": "Broccoli",
+        "serving": "100g",
+        "calories": "34 cal"
+    },
+    {
+        "title": "Brussels Sprouts",
+        "serving": "100g",
+        "calories": "43 cal"
+    },
+    {
+        "title": "Cabbage",
+        "serving": "100g",
+        "calories": "25 cal"
+    },
+    {
+        "title": "Capsicum",
+        "serving": "100g",
+        "calories": "27 cal"
+    },
+    {
+        "title": "Carrot",
+        "serving": "100g",
+        "calories": "41 cal"
+    },
+    {
+        "title": "Cauliflower",
+        "serving": "100g",
+        "calories": "25 cal"
+    },
+    {
+        "title": "Celery",
+        "serving": "100g",
+        "calories": "16 cal"
+    },
+    {
+        "title": "Chard",
+        "serving": "100g",
+        "calories": "19 cal"
+    },
+    {
+        "title": "Cherry Tomato",
+        "serving": "100g",
+        "calories": "100 cal"
+    },
+    {
+        "title": "Chicory",
+        "serving": "100g",
+        "calories": "72 cal"
+    },
+    {
+        "title": "Chinese Cabbage",
+        "serving": "100g",
+        "calories": "16 cal"
+    },
+    {
+        "title": "Chives",
+        "serving": "100g",
+        "calories": "30 cal"
+    },
+    {
+        "title": "Collard Greens",
+        "serving": "100g",
+        "calories": "32 cal"
+    },
+    {
+        "title": "Corn",
+        "serving": "100g",
+        "calories": "365 cal"
+    },
+    {
+        "title": "Courgette",
+        "serving": "100g",
+        "calories": "17 cal"
+    },
+    {
+        "title": "Creamed Spinach",
+        "serving": "100g",
+        "calories": "74 cal"
+    },
+    {
+        "title": "Cucumber",
+        "serving": "100g",
+        "calories": "16 cal"
+    },
+    {
+        "title": "Eggplant",
+        "serving": "100g",
+        "calories": "25 cal"
+    },
+    {
+        "title": "Endive",
+        "serving": "100g",
+        "calories": "17 cal"
+    },
+    {
+        "title": "Fennel",
+        "serving": "100g",
+        "calories": "31 cal"
+    },
+    {
+        "title": "Garlic",
+        "serving": "100g",
+        "calories": "149 cal"
+    },
+    {
+        "title": "Gherkin",
+        "serving": "100g",
+        "calories": "14 cal"
+    },
+    {
+        "title": "Gourd",
+        "serving": "100g",
+        "calories": "14 cal"
+    },
+    {
+        "title": "Green Beans",
+        "serving": "100g",
+        "calories": "31 cal"
+    },
+    {
+        "title": "Green Olives",
+        "serving": "100g",
+        "calories": "115 cal"
+    },
+    {
+        "title": "Green Onion",
+        "serving": "100g",
+        "calories": "32 cal"
+    },
+    {
+        "title": "Horseradish",
+        "serving": "100g",
+        "calories": "48 cal"
+    },
+    {
+        "title": "Kale",
+        "serving": "100g",
+        "calories": "49 cal"
+    },
+    {
+        "title": "Kohlrabi",
+        "serving": "100g",
+        "calories": "27 cal"
+    },
+    {
+        "title": "Kumara",
+        "serving": "100g",
+        "calories": "86 cal"
+    },
+    {
+        "title": "Leek",
+        "serving": "100g",
+        "calories": "61 cal"
+    },
+    {
+        "title": "Lettuce",
+        "serving": "100g",
+        "calories": "15 cal"
+    },
+    {
+        "title": "Mushrooms",
+        "serving": "100g",
+        "calories": "22 cal"
+    },
+    {
+        "title": "Mustard Greens",
+        "serving": "100g",
+        "calories": "27 cal"
+    },
+    {
+        "title": "Nori",
+        "serving": "100g",
+        "calories": "35 cal"
+    },
+    {
+        "title": "Okra",
+        "serving": "100g",
+        "calories": "33 cal"
+    },
+    {
+        "title": "Olives",
+        "serving": "100g",
+        "calories": "115 cal"
+    },
+    {
+        "title": "Onion",
+        "serving": "100g",
+        "calories": "40 cal"
+    },
+    {
+        "title": "Parsnips",
+        "serving": "100g",
+        "calories": "75 cal"
+    },
+    {
+        "title": "Peas",
+        "serving": "100g",
+        "calories": "81 cal"
+    },
+    {
+        "title": "Pepper",
+        "serving": "100g",
+        "calories": "27 cal"
+    },
+    {
+        "title": "Potato",
+        "serving": "100g",
+        "calories": "77 cal"
+    },
+    {
+        "title": "Pumpkin",
+        "serving": "100g",
+        "calories": "26 cal"
+    },
+    {
+        "title": "Radishes",
+        "serving": "100g",
+        "calories": "16 cal"
+    },
+    {
+        "title": "Red Cabbage",
+        "serving": "100g",
+        "calories": "31 cal"
+    },
+    {
+        "title": "Rutabaga",
+        "serving": "100g",
+        "calories": "38 cal"
+    },
+    {
+        "title": "Shallots",
+        "serving": "100g",
+        "calories": "72 cal"
+    },
+    {
+        "title": "Spinach",
+        "serving": "100g",
+        "calories": "23 cal"
+    },
+    {
+        "title": "Squash",
+        "serving": "100g",
+        "calories": "45 cal"
+    },
+    {
+        "title": "Sweet Potato",
+        "serving": "100g",
+        "calories": "86 cal"
+    },
+    {
+        "title": "Tomato",
+        "serving": "100g",
+        "calories": "18 cal"
+    },
+    {
+        "title": "Turnip Greens",
+        "serving": "100g",
+        "calories": "20 cal"
+    },
+    {
+        "title": "Turnips",
+        "serving": "100g",
+        "calories": "28 cal"
+    },
+    {
+        "title": "Wasabi",
+        "serving": "100g",
+        "calories": "109 cal"
+    },
+    {
+        "title": "Winter Squash",
+        "serving": "100g",
+        "calories": "34 cal"
+    },
+    {
+        "title": "Zucchini",
+        "serving": "100g",
+        "calories": "17 cal"
+    }
+]

@@ -1,0 +1,257 @@
+[
+    {
+        "title": "ACE Drink",
+        "serving": "100ml",
+        "calories": "44 cal"
+    },
+    {
+        "title": "Apple Spritzer",
+        "serving": "100ml",
+        "calories": "24 cal"
+    },
+    {
+        "title": "Chai",
+        "serving": "100ml",
+        "calories": "0 cal"
+    },
+    {
+        "title": "Chai Tea",
+        "serving": "100ml",
+        "calories": "0 cal"
+    },
+    {
+        "title": "Chocolate Milk",
+        "serving": "100ml",
+        "calories": "89 cal"
+    },
+    {
+        "title": "Chocolate Milkshake",
+        "serving": "100ml",
+        "calories": "125 cal"
+    },
+    {
+        "title": "Club Mate",
+        "serving": "100ml",
+        "calories": "30 cal"
+    },
+    {
+        "title": "Coca Cola",
+        "serving": "100ml",
+        "calories": "42 cal"
+    },
+    {
+        "title": "Coffee",
+        "serving": "100ml",
+        "calories": "1 cal"
+    },
+    {
+        "title": "Coke Zero",
+        "serving": "100ml",
+        "calories": "1 cal"
+    },
+    {
+        "title": "Cola",
+        "serving": "100ml",
+        "calories": "42 cal"
+    },
+    {
+        "title": "Crystal Light",
+        "serving": "100ml",
+        "calories": "263 cal"
+    },
+    {
+        "title": "Diet Coke",
+        "serving": "100ml",
+        "calories": "1 cal"
+    },
+    {
+        "title": "Egg Cream",
+        "serving": "100ml",
+        "calories": "94 cal"
+    },
+    {
+        "title": "Egg Nog",
+        "serving": "100ml",
+        "calories": "88 cal"
+    },
+    {
+        "title": "Elderflower Cordial",
+        "serving": "100ml",
+        "calories": "29 cal"
+    },
+    {
+        "title": "Evian",
+        "serving": "100ml",
+        "calories": "0 cal"
+    },
+    {
+        "title": "Gatorade",
+        "serving": "100ml",
+        "calories": "23 cal"
+    },
+    {
+        "title": "Ginger Tea",
+        "serving": "100ml",
+        "calories": "0 cal"
+    },
+    {
+        "title": "Hawaiian Punch",
+        "serving": "100ml",
+        "calories": "31 cal"
+    },
+    {
+        "title": "Hi-C",
+        "serving": "100ml",
+        "calories": "49 cal"
+    },
+    {
+        "title": "Horchata",
+        "serving": "100ml",
+        "calories": "54 cal"
+    },
+    {
+        "title": "Hot Chocolate",
+        "serving": "100ml",
+        "calories": "89 cal"
+    },
+    {
+        "title": "Ice Tea",
+        "serving": "100ml",
+        "calories": "27 cal"
+    },
+    {
+        "title": "Iced Tea",
+        "serving": "100ml",
+        "calories": "27 cal"
+    },
+    {
+        "title": "Karamalz",
+        "serving": "100ml",
+        "calories": "37 cal"
+    },
+    {
+        "title": "Kombucha",
+        "serving": "100ml",
+        "calories": "13 cal"
+    },
+    {
+        "title": "Kool-Aid",
+        "serving": "100ml",
+        "calories": "26 cal"
+    },
+    {
+        "title": "Lassi",
+        "serving": "100ml",
+        "calories": "104 cal"
+    },
+    {
+        "title": "Latte Macchiato",
+        "serving": "100ml",
+        "calories": "57 cal"
+    },
+    {
+        "title": "Lemonade",
+        "serving": "100ml",
+        "calories": "42 cal"
+    },
+    {
+        "title": "Malt Beer",
+        "serving": "100ml",
+        "calories": "37 cal"
+    },
+    {
+        "title": "Milk",
+        "serving": "100ml",
+        "calories": "61 cal"
+    },
+    {
+        "title": "Milkshake (dry)",
+        "serving": "100g",
+        "calories": "329 cal"
+    },
+    {
+        "title": "Milo",
+        "serving": "100g",
+        "calories": "409 cal"
+    },
+    {
+        "title": "Nectar",
+        "serving": "100ml",
+        "calories": "53 cal"
+    },
+    {
+        "title": "Nestea",
+        "serving": "100ml",
+        "calories": "36 cal"
+    },
+    {
+        "title": "Non-alcoholic Beer",
+        "serving": "100ml",
+        "calories": "37 cal"
+    },
+    {
+        "title": "Powerade",
+        "serving": "100ml",
+        "calories": "16 cal"
+    },
+    {
+        "title": "Slurpee",
+        "serving": "100ml",
+        "calories": "4 cal"
+    },
+    {
+        "title": "Slush Puppie",
+        "serving": "100ml",
+        "calories": "50 cal"
+    },
+    {
+        "title": "Smoothie",
+        "serving": "100ml",
+        "calories": "37 cal"
+    },
+    {
+        "title": "Soy Milk",
+        "serving": "100ml",
+        "calories": "45 cal"
+    },
+    {
+        "title": "Strawberry Milkshake",
+        "serving": "100ml",
+        "calories": "113 cal"
+    },
+    {
+        "title": "Tang",
+        "serving": "100g",
+        "calories": "381 cal"
+    },
+    {
+        "title": "Tap Water",
+        "serving": "100ml",
+        "calories": "0 cal"
+    },
+    {
+        "title": "Tea",
+        "serving": "100ml",
+        "calories": "1 cal"
+    },
+    {
+        "title": "Vanilla Milkshake",
+        "serving": "100ml",
+        "calories": "149 cal"
+    },
+    {
+        "title": "Volvic",
+        "serving": "100ml",
+        "calories": "0 cal"
+    },
+    {
+        "title": "Water",
+        "serving": "100ml",
+        "calories": "0 cal"
+    },
+    {
+        "title": "Yerba Mate",
+        "serving": "100ml",
+        "calories": "62 cal"
+    }
+]

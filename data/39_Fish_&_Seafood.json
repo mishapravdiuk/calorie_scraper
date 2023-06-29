@@ -1,0 +1,302 @@
+[
+    {
+        "title": "Anchovy",
+        "serving": "100g",
+        "calories": "131 cal"
+    },
+    {
+        "title": "Bluefish",
+        "serving": "100g",
+        "calories": "159 cal"
+    },
+    {
+        "title": "Bream",
+        "serving": "100g",
+        "calories": "135 cal"
+    },
+    {
+        "title": "Butterfish",
+        "serving": "100g",
+        "calories": "187 cal"
+    },
+    {
+        "title": "Calamari",
+        "serving": "100g",
+        "calories": "175 cal"
+    },
+    {
+        "title": "Carp",
+        "serving": "100g",
+        "calories": "162 cal"
+    },
+    {
+        "title": "Caviar",
+        "serving": "100g",
+        "calories": "264 cal"
+    },
+    {
+        "title": "Clam",
+        "serving": "100g",
+        "calories": "148 cal"
+    },
+    {
+        "title": "Cod",
+        "serving": "100g",
+        "calories": "105 cal"
+    },
+    {
+        "title": "Crawfish",
+        "serving": "100g",
+        "calories": "82 cal"
+    },
+    {
+        "title": "Crayfish",
+        "serving": "100g",
+        "calories": "87 cal"
+    },
+    {
+        "title": "Eel",
+        "serving": "100g",
+        "calories": "236 cal"
+    },
+    {
+        "title": "Fish Fingers",
+        "serving": "100g",
+        "calories": "290 cal"
+    },
+    {
+        "title": "Fish Sticks",
+        "serving": "100g",
+        "calories": "290 cal"
+    },
+    {
+        "title": "Flounder",
+        "serving": "100g",
+        "calories": "86 cal"
+    },
+    {
+        "title": "Grouper",
+        "serving": "100g",
+        "calories": "118 cal"
+    },
+    {
+        "title": "Haddock",
+        "serving": "100g",
+        "calories": "90 cal"
+    },
+    {
+        "title": "Hake",
+        "serving": "100g",
+        "calories": "71 cal"
+    },
+    {
+        "title": "Halibut",
+        "serving": "100g",
+        "calories": "111 cal"
+    },
+    {
+        "title": "Herring",
+        "serving": "100g",
+        "calories": "203 cal"
+    },
+    {
+        "title": "Hoki",
+        "serving": "100g",
+        "calories": "121 cal"
+    },
+    {
+        "title": "Kipper",
+        "serving": "100g",
+        "calories": "217 cal"
+    },
+    {
+        "title": "Ling",
+        "serving": "100g",
+        "calories": "109 cal"
+    },
+    {
+        "title": "Lobster",
+        "serving": "100g",
+        "calories": "89 cal"
+    },
+    {
+        "title": "Mackerel",
+        "serving": "100g",
+        "calories": "262 cal"
+    },
+    {
+        "title": "Milkfish",
+        "serving": "100g",
+        "calories": "190 cal"
+    },
+    {
+        "title": "Monkfish",
+        "serving": "100g",
+        "calories": "97 cal"
+    },
+    {
+        "title": "Mullet",
+        "serving": "100g",
+        "calories": "150 cal"
+    },
+    {
+        "title": "Mussel",
+        "serving": "100g",
+        "calories": "172 cal"
+    },
+    {
+        "title": "Octopus",
+        "serving": "100g",
+        "calories": "164 cal"
+    },
+    {
+        "title": "Pickerel",
+        "serving": "100g",
+        "calories": "111 cal"
+    },
+    {
+        "title": "Pickled Herring",
+        "serving": "100g",
+        "calories": "262 cal"
+    },
+    {
+        "title": "Pike",
+        "serving": "100g",
+        "calories": "113 cal"
+    },
+    {
+        "title": "Plaice",
+        "serving": "100g",
+        "calories": "91 cal"
+    },
+    {
+        "title": "Pollack",
+        "serving": "100g",
+        "calories": "111 cal"
+    },
+    {
+        "title": "Red Snapper",
+        "serving": "100g",
+        "calories": "128 cal"
+    },
+    {
+        "title": "Redfish",
+        "serving": "100g",
+        "calories": "94 cal"
+    },
+    {
+        "title": "Rollmops",
+        "serving": "100g",
+        "calories": "171 cal"
+    },
+    {
+        "title": "Salmon",
+        "serving": "100g",
+        "calories": "206 cal"
+    },
+    {
+        "title": "Sardines",
+        "serving": "100g",
+        "calories": "208 cal"
+    },
+    {
+        "title": "Scallops",
+        "serving": "100g",
+        "calories": "111 cal"
+    },
+    {
+        "title": "Scampi",
+        "serving": "100g",
+        "calories": "84 cal"
+    },
+    {
+        "title": "Sea Bass",
+        "serving": "100g",
+        "calories": "124 cal"
+    },
+    {
+        "title": "Shad",
+        "serving": "100g",
+        "calories": "252 cal"
+    },
+    {
+        "title": "Shark",
+        "serving": "100g",
+        "calories": "130 cal"
+    },
+    {
+        "title": "Smelt",
+        "serving": "100g",
+        "calories": "124 cal"
+    },
+    {
+        "title": "Sole",
+        "serving": "100g",
+        "calories": "86 cal"
+    },
+    {
+        "title": "Squid",
+        "serving": "100g",
+        "calories": "92 cal"
+    },
+    {
+        "title": "Sturgeon",
+        "serving": "100g",
+        "calories": "135 cal"
+    },
+    {
+        "title": "Sushi",
+        "serving": "100g",
+        "calories": "150 cal"
+    },
+    {
+        "title": "Swordfish",
+        "serving": "100g",
+        "calories": "172 cal"
+    },
+    {
+        "title": "Triggerfish",
+        "serving": "100g",
+        "calories": "93 cal"
+    },
+    {
+        "title": "Trout",
+        "serving": "100g",
+        "calories": "190 cal"
+    },
+    {
+        "title": "Tuna",
+        "serving": "100g",
+        "calories": "132 cal"
+    },
+    {
+        "title": "Tuna Salad",
+        "serving": "100g",
+        "calories": "187 cal"
+    },
+    {
+        "title": "Turbot",
+        "serving": "100g",
+        "calories": "122 cal"
+    },
+    {
+        "title": "Wahoo",
+        "serving": "100g",
+        "calories": "167 cal"
+    },
+    {
+        "title": "Whitefish",
+        "serving": "100g",
+        "calories": "172 cal"
+    },
+    {
+        "title": "Whiting",
+        "serving": "100g",
+        "calories": "116 cal"
+    },
+    {
+        "title": "Zander",
+        "serving": "100g",
+        "calories": "84 cal"
+    }
+]

@@ -1,0 +1,362 @@
+[
+    {
+        "title": "Arby’s Grand Turkey Club",
+        "serving": "100g",
+        "calories": "210 cal"
+    },
+    {
+        "title": "Arby’s Reuben",
+        "serving": "100g",
+        "calories": "208 cal"
+    },
+    {
+        "title": "Arby’s Roast Beef Classic",
+        "serving": "100g",
+        "calories": "234 cal"
+    },
+    {
+        "title": "Arby’s Roast Beef Max",
+        "serving": "100g",
+        "calories": "234 cal"
+    },
+    {
+        "title": "BBQ Rib",
+        "serving": "100g",
+        "calories": "212 cal"
+    },
+    {
+        "title": "Bean Burrito",
+        "serving": "100g",
+        "calories": "200 cal"
+    },
+    {
+        "title": "Big N’ Tasty",
+        "serving": "100g",
+        "calories": "223 cal"
+    },
+    {
+        "title": "Bratwurst",
+        "serving": "100g",
+        "calories": "333 cal"
+    },
+    {
+        "title": "Burger King Angry Whopper",
+        "serving": "100g",
+        "calories": "255 cal"
+    },
+    {
+        "title": "Burger King Double Whopper",
+        "serving": "100g",
+        "calories": "239 cal"
+    },
+    {
+        "title": "Burger King Double Whopper with Cheese",
+        "serving": "100g",
+        "calories": "249 cal"
+    },
+    {
+        "title": "Burger King Original Chicken Sandwich",
+        "serving": "100g",
+        "calories": "301 cal"
+    },
+    {
+        "title": "Burger King Premium Alaskan Fish Sandwich",
+        "serving": "100g",
+        "calories": "259 cal"
+    },
+    {
+        "title": "Burger King Triple Whopper",
+        "serving": "100g",
+        "calories": "269 cal"
+    },
+    {
+        "title": "Burger King Whopper",
+        "serving": "100g",
+        "calories": "231 cal"
+    },
+    {
+        "title": "Burger King Whopper Jr.",
+        "serving": "100g",
+        "calories": "234 cal"
+    },
+    {
+        "title": "Burger King Whopper with Cheese",
+        "serving": "100g",
+        "calories": "241 cal"
+    },
+    {
+        "title": "Cheeseburger",
+        "serving": "100g",
+        "calories": "263 cal"
+    },
+    {
+        "title": "Chicken Breast",
+        "serving": "100g",
+        "calories": "163 cal"
+    },
+    {
+        "title": "Chicken Fajita",
+        "serving": "100g",
+        "calories": "147 cal"
+    },
+    {
+        "title": "Chicken McNuggets",
+        "serving": "100g",
+        "calories": "302 cal"
+    },
+    {
+        "title": "Chicken Nuggets",
+        "serving": "100g",
+        "calories": "296 cal"
+    },
+    {
+        "title": "Chicken Pizziola",
+        "serving": "100g",
+        "calories": "141 cal"
+    },
+    {
+        "title": "Chicken Sandwich",
+        "serving": "100g",
+        "calories": "241 cal"
+    },
+    {
+        "title": "Chicken Teriyaki Sandwich",
+        "serving": "100g",
+        "calories": "138 cal"
+    },
+    {
+        "title": "Chicken Wings",
+        "serving": "100g",
+        "calories": "324 cal"
+    },
+    {
+        "title": "Chop Suey",
+        "serving": "100g",
+        "calories": "172 cal"
+    },
+    {
+        "title": "Curly Fries",
+        "serving": "100g",
+        "calories": "311 cal"
+    },
+    {
+        "title": "Double Cheeseburger",
+        "serving": "100g",
+        "calories": "267 cal"
+    },
+    {
+        "title": "Egg Roll",
+        "serving": "100g",
+        "calories": "250 cal"
+    },
+    {
+        "title": "Falafel",
+        "serving": "100g",
+        "calories": "335 cal"
+    },
+    {
+        "title": "Filet-o-Fish",
+        "serving": "100g",
+        "calories": "282 cal"
+    },
+    {
+        "title": "Fish and Chips",
+        "serving": "100g",
+        "calories": "195 cal"
+    },
+    {
+        "title": "Fish Sandwich",
+        "serving": "100g",
+        "calories": "273 cal"
+    },
+    {
+        "title": "French Fries",
+        "serving": "100g",
+        "calories": "312 cal"
+    },
+    {
+        "title": "Grilled Chicken Salad",
+        "serving": "100g",
+        "calories": "88 cal"
+    },
+    {
+        "title": "Ham Sandwich",
+        "serving": "100g",
+        "calories": "241 cal"
+    },
+    {
+        "title": "Hamburger",
+        "serving": "100g",
+        "calories": "254 cal"
+    },
+    {
+        "title": "Hot Dog",
+        "serving": "100g",
+        "calories": "269 cal"
+    },
+    {
+        "title": "Italian BMT",
+        "serving": "100g",
+        "calories": "183 cal"
+    },
+    {
+        "title": "Lasagna",
+        "serving": "100g",
+        "calories": "132 cal"
+    },
+    {
+        "title": "McDonald’s Big Mac",
+        "serving": "100g",
+        "calories": "256 cal"
+    },
+    {
+        "title": "McDonald’s Cheeseburger",
+        "serving": "100g",
+        "calories": "263 cal"
+    },
+    {
+        "title": "McDonald’s Chicken Nuggets",
+        "serving": "100g",
+        "calories": "297 cal"
+    },
+    {
+        "title": "McDonald’s Double Cheeseburger",
+        "serving": "100g",
+        "calories": "282 cal"
+    },
+    {
+        "title": "McDonald’s Filet-o-Fish",
+        "serving": "100g",
+        "calories": "275 cal"
+    },
+    {
+        "title": "McDonald’s McChicken",
+        "serving": "100g",
+        "calories": "251 cal"
+    },
+    {
+        "title": "McDonald’s McDouble",
+        "serving": "100g",
+        "calories": "252 cal"
+    },
+    {
+        "title": "McDonald’s McMuffi Egg",
+        "serving": "100g",
+        "calories": "225 cal"
+    },
+    {
+        "title": "McDonald’s McRib",
+        "serving": "100g",
+        "calories": "265 cal"
+    },
+    {
+        "title": "McDonald’s Mighty Wings",
+        "serving": "100g",
+        "calories": "308 cal"
+    },
+    {
+        "title": "McRib",
+        "serving": "100g",
+        "calories": "265 cal"
+    },
+    {
+        "title": "Meatball Sandwich",
+        "serving": "100g",
+        "calories": "161 cal"
+    },
+    {
+        "title": "Nachos with Cheese",
+        "serving": "100g",
+        "calories": "306 cal"
+    },
+    {
+        "title": "Onion Rings",
+        "serving": "100g",
+        "calories": "411 cal"
+    },
+    {
+        "title": "Smoked Salmon",
+        "serving": "100g",
+        "calories": "158 cal"
+    },
+    {
+        "title": "Spicy Italian",
+        "serving": "100g",
+        "calories": "219 cal"
+    },
+    {
+        "title": "Subway Club Sandwich",
+        "serving": "100g",
+        "calories": "131 cal"
+    },
+    {
+        "title": "Tortilla Wrap",
+        "serving": "100g",
+        "calories": "271 cal"
+    },
+    {
+        "title": "Tuna",
+        "serving": "100g",
+        "calories": "86 cal"
+    },
+    {
+        "title": "Turkey",
+        "serving": "100g",
+        "calories": "104 cal"
+    },
+    {
+        "title": "Veggie Burger",
+        "serving": "100g",
+        "calories": "181 cal"
+    },
+    {
+        "title": "Veggie Delight",
+        "serving": "100g",
+        "calories": "138 cal"
+    },
+    {
+        "title": "Veggie Patty",
+        "serving": "100g",
+        "calories": "390 cal"
+    },
+    {
+        "title": "Wendy’s Baconator",
+        "serving": "100g",
+        "calories": "304 cal"
+    },
+    {
+        "title": "Wendy’s Jr. Bacon Cheeseburger",
+        "serving": "100g",
+        "calories": "261 cal"
+    },
+    {
+        "title": "Wendy’s Jr. Cheeseburger",
+        "serving": "100g",
+        "calories": "225 cal"
+    },
+    {
+        "title": "Wendy’s Son of Baconator",
+        "serving": "100g",
+        "calories": "321 cal"
+    },
+    {
+        "title": "Whopper",
+        "serving": "100g",
+        "calories": "231 cal"
+    },
+    {
+        "title": "Zinger",
+        "serving": "100g",
+        "calories": "256 cal"
+    },
+    {
+        "title": "Zinger Burger",
+        "serving": "100g",
+        "calories": "256 cal"
+    },
+    {
+        "title": "Poutine",
+        "serving": "100g",
+        "calories": "227 cal"
+    }
+]

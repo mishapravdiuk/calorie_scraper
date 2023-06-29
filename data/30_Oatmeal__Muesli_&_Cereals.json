@@ -1,0 +1,382 @@
+[
+    {
+        "title": "Bran Flakes",
+        "serving": "100g",
+        "calories": "356 cal"
+    },
+    {
+        "title": "Cap’n Crunch",
+        "serving": "100g",
+        "calories": "404 cal"
+    },
+    {
+        "title": "Cheerios",
+        "serving": "100g",
+        "calories": "347 cal"
+    },
+    {
+        "title": "Chex",
+        "serving": "100g",
+        "calories": "387 cal"
+    },
+    {
+        "title": "Chocolate Cheerios",
+        "serving": "100g",
+        "calories": "367 cal"
+    },
+    {
+        "title": "Chocos",
+        "serving": "100g",
+        "calories": "380 cal"
+    },
+    {
+        "title": "Cinnamon Toast Crunch",
+        "serving": "100g",
+        "calories": "433 cal"
+    },
+    {
+        "title": "Coco Pops",
+        "serving": "100g",
+        "calories": "376 cal"
+    },
+    {
+        "title": "Cocoa Krispies",
+        "serving": "100g",
+        "calories": "386 cal"
+    },
+    {
+        "title": "Cocoa Pebbles",
+        "serving": "100g",
+        "calories": "367 cal"
+    },
+    {
+        "title": "Cocoa Puffs",
+        "serving": "100g",
+        "calories": "400 cal"
+    },
+    {
+        "title": "Cookie Crisp",
+        "serving": "100g",
+        "calories": "400 cal"
+    },
+    {
+        "title": "Corn Flakes",
+        "serving": "100g",
+        "calories": "357 cal"
+    },
+    {
+        "title": "Corn Pops",
+        "serving": "100g",
+        "calories": "377 cal"
+    },
+    {
+        "title": "Count Chocula",
+        "serving": "100g",
+        "calories": "407 cal"
+    },
+    {
+        "title": "Cracklin Oat Bran",
+        "serving": "100g",
+        "calories": "402 cal"
+    },
+    {
+        "title": "Cream of Wheat",
+        "serving": "100g",
+        "calories": "364 cal"
+    },
+    {
+        "title": "Crunchy Nut",
+        "serving": "100g",
+        "calories": "600 cal"
+    },
+    {
+        "title": "Crunchy Nut Cornflakes",
+        "serving": "100g",
+        "calories": "600 cal"
+    },
+    {
+        "title": "Fiber One",
+        "serving": "100g",
+        "calories": "267 cal"
+    },
+    {
+        "title": "Froot Loops",
+        "serving": "100g",
+        "calories": "379 cal"
+    },
+    {
+        "title": "Frosted Cheerios",
+        "serving": "100g",
+        "calories": "393 cal"
+    },
+    {
+        "title": "Frosted Flakes",
+        "serving": "100g",
+        "calories": "367 cal"
+    },
+    {
+        "title": "Frosted Mini-Wheats",
+        "serving": "100g",
+        "calories": "353 cal"
+    },
+    {
+        "title": "Frosties",
+        "serving": "100g",
+        "calories": "367 cal"
+    },
+    {
+        "title": "Fruity Pebbles",
+        "serving": "100g",
+        "calories": "400 cal"
+    },
+    {
+        "title": "Golden Grahams",
+        "serving": "100g",
+        "calories": "400 cal"
+    },
+    {
+        "title": "Grape-Nuts",
+        "serving": "100g",
+        "calories": "362 cal"
+    },
+    {
+        "title": "Honey Nut Cheerios",
+        "serving": "100g",
+        "calories": "393 cal"
+    },
+    {
+        "title": "Honey Smacks",
+        "serving": "100g",
+        "calories": "370 cal"
+    },
+    {
+        "title": "Honeycomb",
+        "serving": "100g",
+        "calories": "397 cal"
+    },
+    {
+        "title": "Just Right",
+        "serving": "100g",
+        "calories": "391 cal"
+    },
+    {
+        "title": "Kashi",
+        "serving": "100g",
+        "calories": "377 cal"
+    },
+    {
+        "title": "Kelloggs Corn Flakes",
+        "serving": "100g",
+        "calories": "357 cal"
+    },
+    {
+        "title": "Kix",
+        "serving": "100g",
+        "calories": "367 cal"
+    },
+    {
+        "title": "Krave",
+        "serving": "100g",
+        "calories": "372 cal"
+    },
+    {
+        "title": "Life Cereal",
+        "serving": "100g",
+        "calories": "375 cal"
+    },
+    {
+        "title": "Lucky Charms",
+        "serving": "100g",
+        "calories": "406 cal"
+    },
+    {
+        "title": "Malt-O-Meal",
+        "serving": "100g",
+        "calories": "51 cal"
+    },
+    {
+        "title": "Mini-Wheats",
+        "serving": "100g",
+        "calories": "353 cal"
+    },
+    {
+        "title": "Muesli",
+        "serving": "100g",
+        "calories": "336 cal"
+    },
+    {
+        "title": "Multigrain Cheerios",
+        "serving": "100g",
+        "calories": "380 cal"
+    },
+    {
+        "title": "Nutri-Grain",
+        "serving": "100g",
+        "calories": "351 cal"
+    },
+    {
+        "title": "Oatibix",
+        "serving": "100g",
+        "calories": "421 cal"
+    },
+    {
+        "title": "Oatmeal",
+        "serving": "100g",
+        "calories": "375 cal"
+    },
+    {
+        "title": "Peanut Butter Toast Crunch",
+        "serving": "100g",
+        "calories": "431 cal"
+    },
+    {
+        "title": "Post Raisin Bran",
+        "serving": "100g",
+        "calories": "322 cal"
+    },
+    {
+        "title": "Post Shredded Wheat",
+        "serving": "100g",
+        "calories": "347 cal"
+    },
+    {
+        "title": "Puff",
+        "serving": "100g",
+        "calories": "367 cal"
+    },
+    {
+        "title": "Puffed Rice",
+        "serving": "100g",
+        "calories": "383 cal"
+    },
+    {
+        "title": "Puffed Wheat",
+        "serving": "100g",
+        "calories": "367 cal"
+    },
+    {
+        "title": "Quaker Grits",
+        "serving": "100g",
+        "calories": "344 cal"
+    },
+    {
+        "title": "Quaker Oatmeal",
+        "serving": "100g",
+        "calories": "375 cal"
+    },
+    {
+        "title": "Quaker Oatmeal Squares",
+        "serving": "100g",
+        "calories": "400 cal"
+    },
+    {
+        "title": "Raisin Bran",
+        "serving": "100g",
+        "calories": "322 cal"
+    },
+    {
+        "title": "Raisin Bran Crunch",
+        "serving": "100g",
+        "calories": "355 cal"
+    },
+    {
+        "title": "Raisin Bran Crunch",
+        "serving": "100g",
+        "calories": "355 cal"
+    },
+    {
+        "title": "Raisin Nut Bran",
+        "serving": "100g",
+        "calories": "367 cal"
+    },
+    {
+        "title": "Ready Brek",
+        "serving": "100g",
+        "calories": "359 cal"
+    },
+    {
+        "title": "Rice Chex",
+        "serving": "100g",
+        "calories": "387 cal"
+    },
+    {
+        "title": "Rice Krispies",
+        "serving": "100g",
+        "calories": "394 cal"
+    },
+    {
+        "title": "Scooters",
+        "serving": "100g",
+        "calories": "367 cal"
+    },
+    {
+        "title": "Shredded Wheat",
+        "serving": "100g",
+        "calories": "340 cal"
+    },
+    {
+        "title": "Shreddies",
+        "serving": "100g",
+        "calories": "351 cal"
+    },
+    {
+        "title": "Smart Start",
+        "serving": "100g",
+        "calories": "371 cal"
+    },
+    {
+        "title": "Special K",
+        "serving": "100g",
+        "calories": "377 cal"
+    },
+    {
+        "title": "Special K Chocolatey Delight",
+        "serving": "100g",
+        "calories": "388 cal"
+    },
+    {
+        "title": "Special K Protein Plus",
+        "serving": "100g",
+        "calories": "375 cal"
+    },
+    {
+        "title": "Special K Red Berries",
+        "serving": "100g",
+        "calories": "345 cal"
+    },
+    {
+        "title": "Sugar Puffs",
+        "serving": "100g",
+        "calories": "379 cal"
+    },
+    {
+        "title": "Toasties",
+        "serving": "100g",
+        "calories": "361 cal"
+    },
+    {
+        "title": "Trix",
+        "serving": "100g",
+        "calories": "400 cal"
+    },
+    {
+        "title": "Weet-Bix",
+        "serving": "100g",
+        "calories": "353 cal"
+    },
+    {
+        "title": "Weetabix",
+        "serving": "100g",
+        "calories": "358 cal"
+    },
+    {
+        "title": "Weetos",
+        "serving": "100g",
+        "calories": "378 cal"
+    },
+    {
+        "title": "Wheaties",
+        "serving": "100g",
+        "calories": "367 cal"
+    }
+]

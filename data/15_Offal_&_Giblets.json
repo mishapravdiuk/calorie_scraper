@@ -1,0 +1,167 @@
+[
+    {
+        "title": "Beef Brain",
+        "serving": "100g",
+        "calories": "196 cal"
+    },
+    {
+        "title": "Beef Heart",
+        "serving": "100g",
+        "calories": "165 cal"
+    },
+    {
+        "title": "Beef Kidney",
+        "serving": "100g",
+        "calories": "158 cal"
+    },
+    {
+        "title": "Beef Liver",
+        "serving": "100g",
+        "calories": "191 cal"
+    },
+    {
+        "title": "Beef Lung",
+        "serving": "100g",
+        "calories": "120 cal"
+    },
+    {
+        "title": "Beef Melt",
+        "serving": "100g",
+        "calories": "271 cal"
+    },
+    {
+        "title": "Beef Tongue",
+        "serving": "100g",
+        "calories": "284 cal"
+    },
+    {
+        "title": "Calf Brain",
+        "serving": "100g",
+        "calories": "136 cal"
+    },
+    {
+        "title": "Calf Liver",
+        "serving": "100g",
+        "calories": "192 cal"
+    },
+    {
+        "title": "Calf Lung",
+        "serving": "100g",
+        "calories": "104 cal"
+    },
+    {
+        "title": "Calf Melt",
+        "serving": "100g",
+        "calories": "256 cal"
+    },
+    {
+        "title": "Chicken Giblets",
+        "serving": "100g",
+        "calories": "277 cal"
+    },
+    {
+        "title": "Chicken Heart",
+        "serving": "100g",
+        "calories": "185 cal"
+    },
+    {
+        "title": "Chicken Liver",
+        "serving": "100g",
+        "calories": "172 cal"
+    },
+    {
+        "title": "Chicken Stomach",
+        "serving": "100g",
+        "calories": "148 cal"
+    },
+    {
+        "title": "Chitterlings",
+        "serving": "100g",
+        "calories": "233 cal"
+    },
+    {
+        "title": "Duck Liver",
+        "serving": "100g",
+        "calories": "136 cal"
+    },
+    {
+        "title": "Goose Liver",
+        "serving": "100g",
+        "calories": "133 cal"
+    },
+    {
+        "title": "Hog Maws",
+        "serving": "100g",
+        "calories": "157 cal"
+    },
+    {
+        "title": "Pig Brain",
+        "serving": "100g",
+        "calories": "138 cal"
+    },
+    {
+        "title": "Pig Heart",
+        "serving": "100g",
+        "calories": "148 cal"
+    },
+    {
+        "title": "Pig Kidney",
+        "serving": "100g",
+        "calories": "151 cal"
+    },
+    {
+        "title": "Pig Lung",
+        "serving": "100g",
+        "calories": "99 cal"
+    },
+    {
+        "title": "Pork Liver",
+        "serving": "100g",
+        "calories": "165 cal"
+    },
+    {
+        "title": "Pork Melt",
+        "serving": "100g",
+        "calories": "219 cal"
+    },
+    {
+        "title": "Pork Tongue",
+        "serving": "100g",
+        "calories": "271 cal"
+    },
+    {
+        "title": "Turkey Giblets",
+        "serving": "100g",
+        "calories": "173 cal"
+    },
+    {
+        "title": "Turkey Heart",
+        "serving": "100g",
+        "calories": "174 cal"
+    },
+    {
+        "title": "Turkey Liver",
+        "serving": "100g",
+        "calories": "189 cal"
+    },
+    {
+        "title": "Turkey Stomach",
+        "serving": "100g",
+        "calories": "148 cal"
+    },
+    {
+        "title": "Veal Heart",
+        "serving": "100g",
+        "calories": "186 cal"
+    },
+    {
+        "title": "Veal Kidney",
+        "serving": "100g",
+        "calories": "163 cal"
+    },
+    {
+        "title": "Veal Tongue",
+        "serving": "100g",
+        "calories": "202 cal"
+    }
+]

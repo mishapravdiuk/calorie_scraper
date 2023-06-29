@@ -1,0 +1,272 @@
+[
+    {
+        "title": "Acai",
+        "serving": "100g",
+        "calories": "70 cal"
+    },
+    {
+        "title": "Apple",
+        "serving": "100g",
+        "calories": "52 cal"
+    },
+    {
+        "title": "Applesauce",
+        "serving": "100g",
+        "calories": "68 cal"
+    },
+    {
+        "title": "Apricot",
+        "serving": "100g",
+        "calories": "48 cal"
+    },
+    {
+        "title": "Avocado",
+        "serving": "100g",
+        "calories": "160 cal"
+    },
+    {
+        "title": "Banana",
+        "serving": "100g",
+        "calories": "89 cal"
+    },
+    {
+        "title": "Blackberries",
+        "serving": "100g",
+        "calories": "43 cal"
+    },
+    {
+        "title": "Blood Oranges",
+        "serving": "100g",
+        "calories": "50 cal"
+    },
+    {
+        "title": "Blueberries",
+        "serving": "100g",
+        "calories": "57 cal"
+    },
+    {
+        "title": "Cantaloupe",
+        "serving": "100g",
+        "calories": "34 cal"
+    },
+    {
+        "title": "Cherries",
+        "serving": "100g",
+        "calories": "50 cal"
+    },
+    {
+        "title": "Clementine",
+        "serving": "100g",
+        "calories": "47 cal"
+    },
+    {
+        "title": "Cranberries",
+        "serving": "100g",
+        "calories": "46 cal"
+    },
+    {
+        "title": "Currants",
+        "serving": "100g",
+        "calories": "56 cal"
+    },
+    {
+        "title": "Custard Apple",
+        "serving": "100g",
+        "calories": "101 cal"
+    },
+    {
+        "title": "Dates",
+        "serving": "100g",
+        "calories": "282 cal"
+    },
+    {
+        "title": "Figs",
+        "serving": "100g",
+        "calories": "74 cal"
+    },
+    {
+        "title": "Fruit salad",
+        "serving": "100g",
+        "calories": "50 cal"
+    },
+    {
+        "title": "Grapes",
+        "serving": "100g",
+        "calories": "69 cal"
+    },
+    {
+        "title": "Greengage",
+        "serving": "100g",
+        "calories": "41 cal"
+    },
+    {
+        "title": "Guava",
+        "serving": "100g",
+        "calories": "68 cal"
+    },
+    {
+        "title": "Jackfruit",
+        "serving": "100g",
+        "calories": "95 cal"
+    },
+    {
+        "title": "Jujube",
+        "serving": "100g",
+        "calories": "79 cal"
+    },
+    {
+        "title": "Kiwi",
+        "serving": "100g",
+        "calories": "61 cal"
+    },
+    {
+        "title": "Lemon",
+        "serving": "100g",
+        "calories": "29 cal"
+    },
+    {
+        "title": "Lime",
+        "serving": "100g",
+        "calories": "30 cal"
+    },
+    {
+        "title": "Lychees",
+        "serving": "100g",
+        "calories": "66 cal"
+    },
+    {
+        "title": "Mandarin Oranges",
+        "serving": "100g",
+        "calories": "53 cal"
+    },
+    {
+        "title": "Mango",
+        "serving": "100g",
+        "calories": "60 cal"
+    },
+    {
+        "title": "Minneola",
+        "serving": "100g",
+        "calories": "64 cal"
+    },
+    {
+        "title": "Mulberries",
+        "serving": "100g",
+        "calories": "43 cal"
+    },
+    {
+        "title": "Nectarine",
+        "serving": "100g",
+        "calories": "44 cal"
+    },
+    {
+        "title": "Olives",
+        "serving": "100g",
+        "calories": "115 cal"
+    },
+    {
+        "title": "Orange",
+        "serving": "100g",
+        "calories": "47 cal"
+    },
+    {
+        "title": "Papaya",
+        "serving": "100g",
+        "calories": "43 cal"
+    },
+    {
+        "title": "Passion Fruit",
+        "serving": "100g",
+        "calories": "97 cal"
+    },
+    {
+        "title": "Peach",
+        "serving": "100g",
+        "calories": "39 cal"
+    },
+    {
+        "title": "Pear",
+        "serving": "100g",
+        "calories": "57 cal"
+    },
+    {
+        "title": "Persimmon",
+        "serving": "100g",
+        "calories": "127 cal"
+    },
+    {
+        "title": "Physalis",
+        "serving": "100g",
+        "calories": "49 cal"
+    },
+    {
+        "title": "Pineapple",
+        "serving": "100g",
+        "calories": "50 cal"
+    },
+    {
+        "title": "Plantains",
+        "serving": "100g",
+        "calories": "122 cal"
+    },
+    {
+        "title": "Plum",
+        "serving": "100g",
+        "calories": "46 cal"
+    },
+    {
+        "title": "Pomegranate",
+        "serving": "100g",
+        "calories": "83 cal"
+    },
+    {
+        "title": "Quince",
+        "serving": "100g",
+        "calories": "57 cal"
+    },
+    {
+        "title": "Raisins",
+        "serving": "100g",
+        "calories": "299 cal"
+    },
+    {
+        "title": "Rambutan",
+        "serving": "100g",
+        "calories": "82 cal"
+    },
+    {
+        "title": "Raspberries",
+        "serving": "100g",
+        "calories": "52 cal"
+    },
+    {
+        "title": "Rhubarb",
+        "serving": "100g",
+        "calories": "21 cal"
+    },
+    {
+        "title": "Starfruit",
+        "serving": "100g",
+        "calories": "31 cal"
+    },
+    {
+        "title": "Strawberries",
+        "serving": "100g",
+        "calories": "32 cal"
+    },
+    {
+        "title": "Tamarind",
+        "serving": "100g",
+        "calories": "239 cal"
+    },
+    {
+        "title": "Tangerine",
+        "serving": "100g",
+        "calories": "53 cal"
+    },
+    {
+        "title": "Watermelon",
+        "serving": "100g",
+        "calories": "30 cal"
+    }
+]

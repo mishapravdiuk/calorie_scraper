@@ -1,0 +1,407 @@
+[
+    {
+        "title": "3 Musketeers",
+        "serving": "100g",
+        "calories": "400 cal"
+    },
+    {
+        "title": "After Eight",
+        "serving": "100g",
+        "calories": "452 cal"
+    },
+    {
+        "title": "Airheads",
+        "serving": "100g",
+        "calories": "375 cal"
+    },
+    {
+        "title": "Almond Roca",
+        "serving": "100g",
+        "calories": "571 cal"
+    },
+    {
+        "title": "Angel Delight",
+        "serving": "100g",
+        "calories": "451 cal"
+    },
+    {
+        "title": "Animal Crackers",
+        "serving": "100g",
+        "calories": "446 cal"
+    },
+    {
+        "title": "Baby Ruth",
+        "serving": "100g",
+        "calories": "469 cal"
+    },
+    {
+        "title": "Butterfinger",
+        "serving": "100g",
+        "calories": "450 cal"
+    },
+    {
+        "title": "Buttermilk Pancakes",
+        "serving": "100g",
+        "calories": "238 cal"
+    },
+    {
+        "title": "Candy Apple",
+        "serving": "100g",
+        "calories": "152 cal"
+    },
+    {
+        "title": "Candy Cane",
+        "serving": "100g",
+        "calories": "423 cal"
+    },
+    {
+        "title": "Candy canes",
+        "serving": "100g",
+        "calories": "423 cal"
+    },
+    {
+        "title": "Candy Corn",
+        "serving": "100g",
+        "calories": "360 cal"
+    },
+    {
+        "title": "Candy Floss",
+        "serving": "100g",
+        "calories": "400 cal"
+    },
+    {
+        "title": "Caramel Popcorn",
+        "serving": "100g",
+        "calories": "376 cal"
+    },
+    {
+        "title": "Caramel squares",
+        "serving": "100g",
+        "calories": "367 cal"
+    },
+    {
+        "title": "Celebrations",
+        "serving": "100g",
+        "calories": "490 cal"
+    },
+    {
+        "title": "Cheez-It’s",
+        "serving": "100g",
+        "calories": "533 cal"
+    },
+    {
+        "title": "Chocolate",
+        "serving": "100g",
+        "calories": "529 cal"
+    },
+    {
+        "title": "Chocolate Bar",
+        "serving": "100g",
+        "calories": "533 cal"
+    },
+    {
+        "title": "Chocolate Chips",
+        "serving": "100g",
+        "calories": "493 cal"
+    },
+    {
+        "title": "Cookies",
+        "serving": "100g",
+        "calories": "488 cal"
+    },
+    {
+        "title": "Cotton Candy",
+        "serving": "100g",
+        "calories": "643 cal"
+    },
+    {
+        "title": "Eggy Bread",
+        "serving": "100g",
+        "calories": "196 cal"
+    },
+    {
+        "title": "Fairy Cakes",
+        "serving": "100g",
+        "calories": "440 cal"
+    },
+    {
+        "title": "Ferrero Rocher",
+        "serving": "100g",
+        "calories": "576 cal"
+    },
+    {
+        "title": "Flapjack",
+        "serving": "100g",
+        "calories": "486 cal"
+    },
+    {
+        "title": "Fortune Cookies",
+        "serving": "100g",
+        "calories": "214 cal"
+    },
+    {
+        "title": "Granola Bars",
+        "serving": "100g",
+        "calories": "452 cal"
+    },
+    {
+        "title": "Gumdrops",
+        "serving": "100g",
+        "calories": "321 cal"
+    },
+    {
+        "title": "Gummi Bears",
+        "serving": "100g",
+        "calories": "316 cal"
+    },
+    {
+        "title": "Hanuta",
+        "serving": "100g",
+        "calories": "541 cal"
+    },
+    {
+        "title": "Hershey Kisses",
+        "serving": "100g",
+        "calories": "471 cal"
+    },
+    {
+        "title": "Jelly Beans",
+        "serving": "100g",
+        "calories": "354 cal"
+    },
+    {
+        "title": "Jelly Belly",
+        "serving": "100g",
+        "calories": "354 cal"
+    },
+    {
+        "title": "Jolly Ranchers",
+        "serving": "100g",
+        "calories": "385 cal"
+    },
+    {
+        "title": "Jordan Almonds",
+        "serving": "100g",
+        "calories": "429 cal"
+    },
+    {
+        "title": "Kit Kat",
+        "serving": "100g",
+        "calories": "521 cal"
+    },
+    {
+        "title": "Laffy Taffy",
+        "serving": "100g",
+        "calories": "372 cal"
+    },
+    {
+        "title": "Licorice",
+        "serving": "100g",
+        "calories": "375 cal"
+    },
+    {
+        "title": "LifeSavers",
+        "serving": "100g",
+        "calories": "500 cal"
+    },
+    {
+        "title": "Lindt Chocolate",
+        "serving": "100g",
+        "calories": "548 cal"
+    },
+    {
+        "title": "Liquorice",
+        "serving": "100g",
+        "calories": "375 cal"
+    },
+    {
+        "title": "Lollipop",
+        "serving": "100g",
+        "calories": "392 cal"
+    },
+    {
+        "title": "M&M’s",
+        "serving": "100g",
+        "calories": "479 cal"
+    },
+    {
+        "title": "Maltesers",
+        "serving": "100g",
+        "calories": "498 cal"
+    },
+    {
+        "title": "Mars Bar",
+        "serving": "100g",
+        "calories": "448 cal"
+    },
+    {
+        "title": "Marshmallows",
+        "serving": "100g",
+        "calories": "318 cal"
+    },
+    {
+        "title": "Marzipan",
+        "serving": "100g",
+        "calories": "411 cal"
+    },
+    {
+        "title": "Mike and Ike",
+        "serving": "100g",
+        "calories": "360 cal"
+    },
+    {
+        "title": "Milk Duds",
+        "serving": "100g",
+        "calories": "422 cal"
+    },
+    {
+        "title": "Milky Way",
+        "serving": "100g",
+        "calories": "449 cal"
+    },
+    {
+        "title": "PayDay",
+        "serving": "100g",
+        "calories": "462 cal"
+    },
+    {
+        "title": "Peanut Bar",
+        "serving": "100g",
+        "calories": "533 cal"
+    },
+    {
+        "title": "Peanut Brittle",
+        "serving": "100g",
+        "calories": "183 cal"
+    },
+    {
+        "title": "Peanut Butter Bars",
+        "serving": "100g",
+        "calories": "379 cal"
+    },
+    {
+        "title": "Peanut Butter Cookies",
+        "serving": "100g",
+        "calories": "475 cal"
+    },
+    {
+        "title": "Peppermint bark",
+        "serving": "100g",
+        "calories": "500 cal"
+    },
+    {
+        "title": "Pez",
+        "serving": "100g",
+        "calories": "427 cal"
+    },
+    {
+        "title": "Pop Rocks",
+        "serving": "100g",
+        "calories": "358 cal"
+    },
+    {
+        "title": "Popcorn",
+        "serving": "100g",
+        "calories": "582 cal"
+    },
+    {
+        "title": "Pumpkin Seeds",
+        "serving": "100g",
+        "calories": "560 cal"
+    },
+    {
+        "title": "Reeses Peanut Butter Cups",
+        "serving": "100g",
+        "calories": "536 cal"
+    },
+    {
+        "title": "Rice Pudding",
+        "serving": "100g",
+        "calories": "134 cal"
+    },
+    {
+        "title": "Roasted Almonds",
+        "serving": "100g",
+        "calories": "452 cal"
+    },
+    {
+        "title": "Rolo",
+        "serving": "100g",
+        "calories": "474 cal"
+    },
+    {
+        "title": "S’mores",
+        "serving": "100g",
+        "calories": "500 cal"
+    },
+    {
+        "title": "Semolina",
+        "serving": "100g",
+        "calories": "340 cal"
+    },
+    {
+        "title": "Skittles",
+        "serving": "100g",
+        "calories": "405 cal"
+    },
+    {
+        "title": "Smarties",
+        "serving": "100g",
+        "calories": "357 cal"
+    },
+    {
+        "title": "Smores",
+        "serving": "100g",
+        "calories": "500 cal"
+    },
+    {
+        "title": "Snickers",
+        "serving": "100g",
+        "calories": "484 cal"
+    },
+    {
+        "title": "Sour Patch Kids",
+        "serving": "100g",
+        "calories": "363 cal"
+    },
+    {
+        "title": "Speculoos",
+        "serving": "100g",
+        "calories": "469 cal"
+    },
+    {
+        "title": "Spritz Cookies",
+        "serving": "100g",
+        "calories": "500 cal"
+    },
+    {
+        "title": "Take 5",
+        "serving": "100g",
+        "calories": "476 cal"
+    },
+    {
+        "title": "Toblerone",
+        "serving": "100g",
+        "calories": "525 cal"
+    },
+    {
+        "title": "Trifle",
+        "serving": "100g",
+        "calories": "186 cal"
+    },
+    {
+        "title": "Twix",
+        "serving": "100g",
+        "calories": "495 cal"
+    },
+    {
+        "title": "Waffles",
+        "serving": "100g",
+        "calories": "272 cal"
+    },
+    {
+        "title": "Whoopie Pie",
+        "serving": "100g",
+        "calories": "400 cal"
+    }
+]

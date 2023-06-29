@@ -1,0 +1,227 @@
+[
+    {
+        "title": "Baskin-Robbins",
+        "serving": "100g",
+        "calories": "239 cal"
+    },
+    {
+        "title": "Ben and Jerry’s",
+        "serving": "100g",
+        "calories": "228 cal"
+    },
+    {
+        "title": "Butter Pecan Ice Cream",
+        "serving": "100g",
+        "calories": "248 cal"
+    },
+    {
+        "title": "Carvel",
+        "serving": "100g",
+        "calories": "212 cal"
+    },
+    {
+        "title": "Chocolate Chip Ice Cream",
+        "serving": "100g",
+        "calories": "215 cal"
+    },
+    {
+        "title": "Chocolate Ice Cream",
+        "serving": "100g",
+        "calories": "216 cal"
+    },
+    {
+        "title": "Ciao Bella",
+        "serving": "100g",
+        "calories": "109 cal"
+    },
+    {
+        "title": "Coffee Ice Cream",
+        "serving": "100g",
+        "calories": "236 cal"
+    },
+    {
+        "title": "Cold Stone Creamery",
+        "serving": "100g",
+        "calories": "232 cal"
+    },
+    {
+        "title": "Cookie Dough Ice Cream",
+        "serving": "100g",
+        "calories": "200 cal"
+    },
+    {
+        "title": "Crunchie McFlurry",
+        "serving": "100g",
+        "calories": "174 cal"
+    },
+    {
+        "title": "Dairy Milk McFlurry",
+        "serving": "100g",
+        "calories": "186 cal"
+    },
+    {
+        "title": "Dippin Dots",
+        "serving": "100g",
+        "calories": "224 cal"
+    },
+    {
+        "title": "Double Rainbow",
+        "serving": "100g",
+        "calories": "257 cal"
+    },
+    {
+        "title": "Drumsticks",
+        "serving": "100g",
+        "calories": "255 cal"
+    },
+    {
+        "title": "French Vanilla Ice Cream",
+        "serving": "100g",
+        "calories": "201 cal"
+    },
+    {
+        "title": "Friendly’s",
+        "serving": "100g",
+        "calories": "212 cal"
+    },
+    {
+        "title": "Healthy Choice",
+        "serving": "100g",
+        "calories": "125 cal"
+    },
+    {
+        "title": "Hot Fudge Sundae",
+        "serving": "100g",
+        "calories": "186 cal"
+    },
+    {
+        "title": "Ice Cream Sandwich",
+        "serving": "100g",
+        "calories": "237 cal"
+    },
+    {
+        "title": "Ice Cream Sundae",
+        "serving": "100g",
+        "calories": "142 cal"
+    },
+    {
+        "title": "Ice Milk",
+        "serving": "100g",
+        "calories": "159 cal"
+    },
+    {
+        "title": "Magnolia",
+        "serving": "100g",
+        "calories": "230 cal"
+    },
+    {
+        "title": "Magnum",
+        "serving": "100g",
+        "calories": "300 cal"
+    },
+    {
+        "title": "Magnum Almond",
+        "serving": "100g",
+        "calories": "315 cal"
+    },
+    {
+        "title": "Magnum Double Caramel",
+        "serving": "100g",
+        "calories": "355 cal"
+    },
+    {
+        "title": "Magnum Double Chocolate",
+        "serving": "100g",
+        "calories": "380 cal"
+    },
+    {
+        "title": "Magnum Gold",
+        "serving": "100g",
+        "calories": "341 cal"
+    },
+    {
+        "title": "Magnum White",
+        "serving": "100g",
+        "calories": "297 cal"
+    },
+    {
+        "title": "McFlurry",
+        "serving": "100g",
+        "calories": "153 cal"
+    },
+    {
+        "title": "McFlurry Oreo",
+        "serving": "100g",
+        "calories": "186 cal"
+    },
+    {
+        "title": "Mini Milk",
+        "serving": "100g",
+        "calories": "120 cal"
+    },
+    {
+        "title": "Mint Chocolate Chip Ice Cream",
+        "serving": "100g",
+        "calories": "239 cal"
+    },
+    {
+        "title": "Rocky Road Ice Cream",
+        "serving": "100g",
+        "calories": "257 cal"
+    },
+    {
+        "title": "Schwan’s",
+        "serving": "100g",
+        "calories": "246 cal"
+    },
+    {
+        "title": "Smarties McFlurry",
+        "serving": "100g",
+        "calories": "198 cal"
+    },
+    {
+        "title": "Snickers Ice Cream",
+        "serving": "100g",
+        "calories": "360 cal"
+    },
+    {
+        "title": "Soft Serve",
+        "serving": "100g",
+        "calories": "222 cal"
+    },
+    {
+        "title": "Solero",
+        "serving": "100g",
+        "calories": "100 cal"
+    },
+    {
+        "title": "Strawberry Ice Cream",
+        "serving": "100g",
+        "calories": "236 cal"
+    },
+    {
+        "title": "Strawberry Sundae",
+        "serving": "100g",
+        "calories": "158 cal"
+    },
+    {
+        "title": "Sundae",
+        "serving": "100g",
+        "calories": "215 cal"
+    },
+    {
+        "title": "Turkey Hill",
+        "serving": "100g",
+        "calories": "271 cal"
+    },
+    {
+        "title": "Vanilla Cone",
+        "serving": "100g",
+        "calories": "162 cal"
+    },
+    {
+        "title": "Vanilla Ice Cream",
+        "serving": "100g",
+        "calories": "201 cal"
+    }
+]

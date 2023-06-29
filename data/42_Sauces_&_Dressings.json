@@ -1,0 +1,272 @@
+[
+    {
+        "title": "1000 Island Dressing",
+        "serving": "100ml",
+        "calories": "370 cal"
+    },
+    {
+        "title": "Ajvar",
+        "serving": "100ml",
+        "calories": "18 cal"
+    },
+    {
+        "title": "Arrabiata Sauce",
+        "serving": "100g",
+        "calories": "36 cal"
+    },
+    {
+        "title": "Balsamic Vinaigrette Dressing",
+        "serving": "100ml",
+        "calories": "290 cal"
+    },
+    {
+        "title": "Barbecue Sauce",
+        "serving": "100g",
+        "calories": "150 cal"
+    },
+    {
+        "title": "Bechamel Sauce",
+        "serving": "100g",
+        "calories": "225 cal"
+    },
+    {
+        "title": "Bernaise Sauce",
+        "serving": "100g",
+        "calories": "414 cal"
+    },
+    {
+        "title": "Blue Cheese Dressing",
+        "serving": "100ml",
+        "calories": "533 cal"
+    },
+    {
+        "title": "Bolognese",
+        "serving": "100g",
+        "calories": "106 cal"
+    },
+    {
+        "title": "Buttermilk Ranch Dressing",
+        "serving": "100ml",
+        "calories": "533 cal"
+    },
+    {
+        "title": "Caesar Dressing",
+        "serving": "100ml",
+        "calories": "429 cal"
+    },
+    {
+        "title": "Catalina Dressing",
+        "serving": "100ml",
+        "calories": "282 cal"
+    },
+    {
+        "title": "Chasseur Sauce",
+        "serving": "100g",
+        "calories": "45 cal"
+    },
+    {
+        "title": "Chili Sauce",
+        "serving": "100g",
+        "calories": "112 cal"
+    },
+    {
+        "title": "Cream Sauce",
+        "serving": "100g",
+        "calories": "180 cal"
+    },
+    {
+        "title": "Curry Ketchup",
+        "serving": "100g",
+        "calories": "124 cal"
+    },
+    {
+        "title": "Curry Sauce",
+        "serving": "100g",
+        "calories": "26 cal"
+    },
+    {
+        "title": "French Dressing",
+        "serving": "100ml",
+        "calories": "60 cal"
+    },
+    {
+        "title": "Gravy",
+        "serving": "100g",
+        "calories": "53 cal"
+    },
+    {
+        "title": "Greek Dressing",
+        "serving": "100ml",
+        "calories": "467 cal"
+    },
+    {
+        "title": "Hamburger Sauce",
+        "serving": "100g",
+        "calories": "383 cal"
+    },
+    {
+        "title": "Harissa",
+        "serving": "100g",
+        "calories": "52 cal"
+    },
+    {
+        "title": "Hollandaise Sauce",
+        "serving": "100g",
+        "calories": "535 cal"
+    },
+    {
+        "title": "Honey Mustard Dressing",
+        "serving": "100ml",
+        "calories": "464 cal"
+    },
+    {
+        "title": "Horseradish",
+        "serving": "100g",
+        "calories": "48 cal"
+    },
+    {
+        "title": "Italian Dressing",
+        "serving": "100ml",
+        "calories": "293 cal"
+    },
+    {
+        "title": "Ketchup",
+        "serving": "100g",
+        "calories": "100 cal"
+    },
+    {
+        "title": "Mayonnaise",
+        "serving": "100g",
+        "calories": "692 cal"
+    },
+    {
+        "title": "Mustard",
+        "serving": "100g",
+        "calories": "60 cal"
+    },
+    {
+        "title": "Mustard Sauce",
+        "serving": "100g",
+        "calories": "645 cal"
+    },
+    {
+        "title": "Orange Sauce",
+        "serving": "100g",
+        "calories": "179 cal"
+    },
+    {
+        "title": "Pesto",
+        "serving": "100g",
+        "calories": "458 cal"
+    },
+    {
+        "title": "Ranch Dressing",
+        "serving": "100ml",
+        "calories": "510 cal"
+    },
+    {
+        "title": "Remoulade Sauce",
+        "serving": "100g",
+        "calories": "635 cal"
+    },
+    {
+        "title": "Russian Dressing",
+        "serving": "100ml",
+        "calories": "400 cal"
+    },
+    {
+        "title": "Salad Dressing",
+        "serving": "100ml",
+        "calories": "449 cal"
+    },
+    {
+        "title": "Sambal Oelek",
+        "serving": "100g",
+        "calories": "21 cal"
+    },
+    {
+        "title": "Sesame Ginger Dressing",
+        "serving": "100ml",
+        "calories": "464 cal"
+    },
+    {
+        "title": "Sesame Paste",
+        "serving": "100g",
+        "calories": "595 cal"
+    },
+    {
+        "title": "Sour Cream",
+        "serving": "100g",
+        "calories": "217 cal"
+    },
+    {
+        "title": "Sour Cream Sauce",
+        "serving": "100g",
+        "calories": "60 cal"
+    },
+    {
+        "title": "Soy Sauce",
+        "serving": "100ml",
+        "calories": "67 cal"
+    },
+    {
+        "title": "Sweet and Sour Sauce",
+        "serving": "100g",
+        "calories": "179 cal"
+    },
+    {
+        "title": "Tabasco",
+        "serving": "100g",
+        "calories": "70 cal"
+    },
+    {
+        "title": "Teriyaki Sauce",
+        "serving": "100g",
+        "calories": "89 cal"
+    },
+    {
+        "title": "Thai Curry Paste",
+        "serving": "100g",
+        "calories": "155 cal"
+    },
+    {
+        "title": "Tomato Paste",
+        "serving": "100g",
+        "calories": "82 cal"
+    },
+    {
+        "title": "Tomato Puree",
+        "serving": "100g",
+        "calories": "38 cal"
+    },
+    {
+        "title": "Tomato Sauce",
+        "serving": "100g",
+        "calories": "24 cal"
+    },
+    {
+        "title": "Tzatziki",
+        "serving": "100g",
+        "calories": "94 cal"
+    },
+    {
+        "title": "Vinaigrette",
+        "serving": "100ml",
+        "calories": "120 cal"
+    },
+    {
+        "title": "Worcestershire Sauce",
+        "serving": "100ml",
+        "calories": "78 cal"
+    },
+    {
+        "title": "Yogurt Dressing",
+        "serving": "100ml",
+        "calories": "45 cal"
+    },
+    {
+        "title": "Zesty Italian Dressing",
+        "serving": "100ml",
+        "calories": "267 cal"
+    }
+]

@@ -1,0 +1,227 @@
+[
+    {
+        "title": "7up",
+        "serving": "100ml",
+        "calories": "44 cal"
+    },
+    {
+        "title": "Barq’s",
+        "serving": "100ml",
+        "calories": "46 cal"
+    },
+    {
+        "title": "Bitter Lemon",
+        "serving": "100ml",
+        "calories": "34 cal"
+    },
+    {
+        "title": "Canada Dry Ginger Ale",
+        "serving": "100ml",
+        "calories": "41 cal"
+    },
+    {
+        "title": "Cherry Coke",
+        "serving": "100ml",
+        "calories": "44 cal"
+    },
+    {
+        "title": "Coke",
+        "serving": "100ml",
+        "calories": "42 cal"
+    },
+    {
+        "title": "Coke Zero",
+        "serving": "100ml",
+        "calories": "0 cal"
+    },
+    {
+        "title": "Diet Cherry Coke",
+        "serving": "100ml",
+        "calories": "1 cal"
+    },
+    {
+        "title": "Diet Coke",
+        "serving": "100ml",
+        "calories": "1 cal"
+    },
+    {
+        "title": "Diet Dr. Pepper",
+        "serving": "100ml",
+        "calories": "0 cal"
+    },
+    {
+        "title": "Diet Pepsi",
+        "serving": "100ml",
+        "calories": "0 cal"
+    },
+    {
+        "title": "Diet Sunkist",
+        "serving": "100ml",
+        "calories": "0 cal"
+    },
+    {
+        "title": "Dr. Brown’s",
+        "serving": "100ml",
+        "calories": "53 cal"
+    },
+    {
+        "title": "Dr. Pepper",
+        "serving": "100ml",
+        "calories": "27 cal"
+    },
+    {
+        "title": "Fanta",
+        "serving": "100ml",
+        "calories": "39 cal"
+    },
+    {
+        "title": "Fanta Zero",
+        "serving": "100ml",
+        "calories": "0 cal"
+    },
+    {
+        "title": "Five Alive",
+        "serving": "100ml",
+        "calories": "35 cal"
+    },
+    {
+        "title": "Fresca",
+        "serving": "100ml",
+        "calories": "0 cal"
+    },
+    {
+        "title": "Full Throttle",
+        "serving": "100ml",
+        "calories": "110 cal"
+    },
+    {
+        "title": "Fuze",
+        "serving": "100ml",
+        "calories": "20 cal"
+    },
+    {
+        "title": "Fuze Tea",
+        "serving": "100ml",
+        "calories": "25 cal"
+    },
+    {
+        "title": "Gatorade",
+        "serving": "100ml",
+        "calories": "25 cal"
+    },
+    {
+        "title": "Ginger Ale",
+        "serving": "100ml",
+        "calories": "35 cal"
+    },
+    {
+        "title": "Ice Tea",
+        "serving": "100ml",
+        "calories": "27 cal"
+    },
+    {
+        "title": "Jolt Cola",
+        "serving": "100ml",
+        "calories": "44 cal"
+    },
+    {
+        "title": "Kool-Aid",
+        "serving": "100ml",
+        "calories": "26 cal"
+    },
+    {
+        "title": "Lemonade",
+        "serving": "100ml",
+        "calories": "42 cal"
+    },
+    {
+        "title": "Mello Yello",
+        "serving": "100ml",
+        "calories": "49 cal"
+    },
+    {
+        "title": "Minute Maid",
+        "serving": "100ml",
+        "calories": "46 cal"
+    },
+    {
+        "title": "Minute Maid Light",
+        "serving": "100ml",
+        "calories": "2 cal"
+    },
+    {
+        "title": "Mug Root Beer",
+        "serving": "100ml",
+        "calories": "42 cal"
+    },
+    {
+        "title": "Orange Soda",
+        "serving": "100ml",
+        "calories": "48 cal"
+    },
+    {
+        "title": "Pepsi",
+        "serving": "100ml",
+        "calories": "44 cal"
+    },
+    {
+        "title": "Pibb Xtra",
+        "serving": "100ml",
+        "calories": "40 cal"
+    },
+    {
+        "title": "Powerade",
+        "serving": "100ml",
+        "calories": "120 cal"
+    },
+    {
+        "title": "Schweppes Ginger Ale",
+        "serving": "100ml",
+        "calories": "38 cal"
+    },
+    {
+        "title": "Soda",
+        "serving": "100ml",
+        "calories": "53 cal"
+    },
+    {
+        "title": "Sprite",
+        "serving": "100ml",
+        "calories": "37 cal"
+    },
+    {
+        "title": "Sprite Zero",
+        "serving": "100ml",
+        "calories": "0 cal"
+    },
+    {
+        "title": "Squirt",
+        "serving": "100ml",
+        "calories": "44 cal"
+    },
+    {
+        "title": "Sunkist",
+        "serving": "100ml",
+        "calories": "25 cal"
+    },
+    {
+        "title": "Surge",
+        "serving": "100ml",
+        "calories": "48 cal"
+    },
+    {
+        "title": "TaB",
+        "serving": "100ml",
+        "calories": "0 cal"
+    },
+    {
+        "title": "Tonic Water",
+        "serving": "100ml",
+        "calories": "35 cal"
+    },
+    {
+        "title": "Vanilla Coke",
+        "serving": "100ml",
+        "calories": "45 cal"
+    }
+]

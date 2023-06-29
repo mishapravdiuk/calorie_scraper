@@ -1,0 +1,232 @@
+[
+    {
+        "title": "Acai Juice",
+        "serving": "100ml",
+        "calories": "58 cal"
+    },
+    {
+        "title": "Aloe Vera",
+        "serving": "100ml",
+        "calories": "44 cal"
+    },
+    {
+        "title": "Apple Juice",
+        "serving": "100ml",
+        "calories": "46 cal"
+    },
+    {
+        "title": "Apricot Nectar",
+        "serving": "100ml",
+        "calories": "56 cal"
+    },
+    {
+        "title": "Banana Juice",
+        "serving": "100ml",
+        "calories": "50 cal"
+    },
+    {
+        "title": "Blackberry Juice",
+        "serving": "100ml",
+        "calories": "48 cal"
+    },
+    {
+        "title": "Boysenberry Juice",
+        "serving": "100ml",
+        "calories": "54 cal"
+    },
+    {
+        "title": "Capri-Sun",
+        "serving": "100ml",
+        "calories": "41 cal"
+    },
+    {
+        "title": "Carrot Juice",
+        "serving": "100ml",
+        "calories": "40 cal"
+    },
+    {
+        "title": "Chamomile Tea",
+        "serving": "100ml",
+        "calories": "0 cal"
+    },
+    {
+        "title": "Cherry Juice",
+        "serving": "100ml",
+        "calories": "45 cal"
+    },
+    {
+        "title": "Clamato",
+        "serving": "100ml",
+        "calories": "60 cal"
+    },
+    {
+        "title": "Coconut Milk",
+        "serving": "100ml",
+        "calories": "233 cal"
+    },
+    {
+        "title": "Coconut Water",
+        "serving": "100ml",
+        "calories": "19 cal"
+    },
+    {
+        "title": "Concord Grape",
+        "serving": "100ml",
+        "calories": "71 cal"
+    },
+    {
+        "title": "Cranberry Apple Juice",
+        "serving": "100ml",
+        "calories": "67 cal"
+    },
+    {
+        "title": "Cranberry Grape Juice",
+        "serving": "100ml",
+        "calories": "71 cal"
+    },
+    {
+        "title": "Cranberry Juice",
+        "serving": "100ml",
+        "calories": "46 cal"
+    },
+    {
+        "title": "Cucumber Juice",
+        "serving": "100ml",
+        "calories": "10 cal"
+    },
+    {
+        "title": "Currant Juice",
+        "serving": "100ml",
+        "calories": "48 cal"
+    },
+    {
+        "title": "Energy-Drink",
+        "serving": "100ml",
+        "calories": "87 cal"
+    },
+    {
+        "title": "Fruitopia",
+        "serving": "100ml",
+        "calories": "110 cal"
+    },
+    {
+        "title": "Grape Juice",
+        "serving": "100ml",
+        "calories": "60 cal"
+    },
+    {
+        "title": "Grapefruit Juice",
+        "serving": "100ml",
+        "calories": "46 cal"
+    },
+    {
+        "title": "Lemon Juice",
+        "serving": "100ml",
+        "calories": "21 cal"
+    },
+    {
+        "title": "Lemonade",
+        "serving": "100ml",
+        "calories": "50 cal"
+    },
+    {
+        "title": "Lime Juice",
+        "serving": "100ml",
+        "calories": "21 cal"
+    },
+    {
+        "title": "Limeade",
+        "serving": "100ml",
+        "calories": "128 cal"
+    },
+    {
+        "title": "Mango Lassi",
+        "serving": "100ml",
+        "calories": "66 cal"
+    },
+    {
+        "title": "Nestea",
+        "serving": "100ml",
+        "calories": "21 cal"
+    },
+    {
+        "title": "Orange Juice",
+        "serving": "100ml",
+        "calories": "46 cal"
+    },
+    {
+        "title": "Papaya Juice",
+        "serving": "100ml",
+        "calories": "58 cal"
+    },
+    {
+        "title": "Passion Fruit Juice",
+        "serving": "100ml",
+        "calories": "48 cal"
+    },
+    {
+        "title": "Peach Juice",
+        "serving": "100ml",
+        "calories": "54 cal"
+    },
+    {
+        "title": "Peach Nectar",
+        "serving": "100ml",
+        "calories": "54 cal"
+    },
+    {
+        "title": "Pear Juice",
+        "serving": "100ml",
+        "calories": "60 cal"
+    },
+    {
+        "title": "Pear Nectar",
+        "serving": "100ml",
+        "calories": "60 cal"
+    },
+    {
+        "title": "Pineapple Juice",
+        "serving": "100ml",
+        "calories": "53 cal"
+    },
+    {
+        "title": "Pineapple Orange Juice",
+        "serving": "100ml",
+        "calories": "50 cal"
+    },
+    {
+        "title": "Plum Juice",
+        "serving": "100ml",
+        "calories": "71 cal"
+    },
+    {
+        "title": "Pomegranate Juice",
+        "serving": "100ml",
+        "calories": "66 cal"
+    },
+    {
+        "title": "Sauerkraut Juice",
+        "serving": "100ml",
+        "calories": "14 cal"
+    },
+    {
+        "title": "Tangerine Juice",
+        "serving": "100ml",
+        "calories": "43 cal"
+    },
+    {
+        "title": "Tomato Juice",
+        "serving": "100ml",
+        "calories": "17 cal"
+    },
+    {
+        "title": "Vegetable Juice",
+        "serving": "100ml",
+        "calories": "21 cal"
+    },
+    {
+        "title": "White Grape Juice",
+        "serving": "100ml",
+        "calories": "75 cal"
+    }
+]

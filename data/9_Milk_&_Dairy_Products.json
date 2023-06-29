@@ -1,0 +1,167 @@
+[
+    {
+        "title": "Almond Milk",
+        "serving": "100ml",
+        "calories": "17 cal"
+    },
+    {
+        "title": "Buttermilk",
+        "serving": "100ml",
+        "calories": "62 cal"
+    },
+    {
+        "title": "Chocolate Mousse",
+        "serving": "100g",
+        "calories": "225 cal"
+    },
+    {
+        "title": "Coconut Milk",
+        "serving": "100ml",
+        "calories": "230 cal"
+    },
+    {
+        "title": "Coffee Creamer",
+        "serving": "100g",
+        "calories": "195 cal"
+    },
+    {
+        "title": "Condensed Milk",
+        "serving": "100g",
+        "calories": "321 cal"
+    },
+    {
+        "title": "Cottage Cheese",
+        "serving": "100g",
+        "calories": "98 cal"
+    },
+    {
+        "title": "Cream",
+        "serving": "100g",
+        "calories": "242 cal"
+    },
+    {
+        "title": "Creme Fraiche",
+        "serving": "100g",
+        "calories": "393 cal"
+    },
+    {
+        "title": "Curd",
+        "serving": "100g",
+        "calories": "98 cal"
+    },
+    {
+        "title": "Custard",
+        "serving": "100g",
+        "calories": "122 cal"
+    },
+    {
+        "title": "Evaporated Milk",
+        "serving": "100g",
+        "calories": "135 cal"
+    },
+    {
+        "title": "Goat Milk",
+        "serving": "100g",
+        "calories": "69 cal"
+    },
+    {
+        "title": "Hot Chocolate",
+        "serving": "100ml",
+        "calories": "89 cal"
+    },
+    {
+        "title": "Kefir",
+        "serving": "100ml",
+        "calories": "55 cal"
+    },
+    {
+        "title": "Lactose-free Milk",
+        "serving": "100ml",
+        "calories": "52 cal"
+    },
+    {
+        "title": "Lassi",
+        "serving": "100ml",
+        "calories": "75 cal"
+    },
+    {
+        "title": "Milk",
+        "serving": "100ml",
+        "calories": "61 cal"
+    },
+    {
+        "title": "Plain Yogurt",
+        "serving": "100g",
+        "calories": "61 cal"
+    },
+    {
+        "title": "Powdered Milk",
+        "serving": "100g",
+        "calories": "496 cal"
+    },
+    {
+        "title": "Quark",
+        "serving": "100g",
+        "calories": "145 cal"
+    },
+    {
+        "title": "Rice Milk",
+        "serving": "100ml",
+        "calories": "49 cal"
+    },
+    {
+        "title": "Rice Pudding",
+        "serving": "100g",
+        "calories": "118 cal"
+    },
+    {
+        "title": "Semi-skimmed Milk",
+        "serving": "100ml",
+        "calories": "50 cal"
+    },
+    {
+        "title": "Semolina Pudding",
+        "serving": "100g",
+        "calories": "67 cal"
+    },
+    {
+        "title": "Skim Milk",
+        "serving": "100ml",
+        "calories": "35 cal"
+    },
+    {
+        "title": "Sour Cream",
+        "serving": "100g",
+        "calories": "181 cal"
+    },
+    {
+        "title": "Soy Milk",
+        "serving": "100ml",
+        "calories": "45 cal"
+    },
+    {
+        "title": "Sweetened Condensed Milk",
+        "serving": "100ml",
+        "calories": "321 cal"
+    },
+    {
+        "title": "Tzatziki",
+        "serving": "100g",
+        "calories": "117 cal"
+    },
+    {
+        "title": "Whipped Cream",
+        "serving": "100g",
+        "calories": "257 cal"
+    },
+    {
+        "title": "Whole Milk",
+        "serving": "100ml",
+        "calories": "61 cal"
+    },
+    {
+        "title": "Yogurt",
+        "serving": "100g",
+        "calories": "61 cal"
+    }
+]

@@ -1,0 +1,262 @@
+[
+    {
+        "title": "Alphabet Soup",
+        "serving": "100g",
+        "calories": "25 cal"
+    },
+    {
+        "title": "Bean Stew",
+        "serving": "100g",
+        "calories": "133 cal"
+    },
+    {
+        "title": "Beef Bouillon",
+        "serving": "100g",
+        "calories": "3 cal"
+    },
+    {
+        "title": "Beef Noodle Soup",
+        "serving": "100g",
+        "calories": "34 cal"
+    },
+    {
+        "title": "Beef Soup",
+        "serving": "100g",
+        "calories": "33 cal"
+    },
+    {
+        "title": "Bouillon",
+        "serving": "100g",
+        "calories": "16 cal"
+    },
+    {
+        "title": "Broccoli Cheese Soup",
+        "serving": "100g",
+        "calories": "87 cal"
+    },
+    {
+        "title": "Broccoli Soup",
+        "serving": "100g",
+        "calories": "87 cal"
+    },
+    {
+        "title": "Cabbage Soup",
+        "serving": "100g",
+        "calories": "28 cal"
+    },
+    {
+        "title": "Carrot Ginger Soup",
+        "serving": "100g",
+        "calories": "25 cal"
+    },
+    {
+        "title": "Carrot Soup",
+        "serving": "100g",
+        "calories": "25 cal"
+    },
+    {
+        "title": "Chicken Bouillon",
+        "serving": "100g",
+        "calories": "4 cal"
+    },
+    {
+        "title": "Chicken Broth",
+        "serving": "100g",
+        "calories": "16 cal"
+    },
+    {
+        "title": "Chicken Gumbo Soup",
+        "serving": "100g",
+        "calories": "23 cal"
+    },
+    {
+        "title": "Chicken Noodle Soup",
+        "serving": "100g",
+        "calories": "25 cal"
+    },
+    {
+        "title": "Chicken Stock",
+        "serving": "100g",
+        "calories": "16 cal"
+    },
+    {
+        "title": "Chicken Vegetable Soup",
+        "serving": "100g",
+        "calories": "31 cal"
+    },
+    {
+        "title": "Chicken with Rice Soup",
+        "serving": "100g",
+        "calories": "24 cal"
+    },
+    {
+        "title": "Cream of Asparagus Soup",
+        "serving": "100g",
+        "calories": "35 cal"
+    },
+    {
+        "title": "Cream of Broccoli Soup",
+        "serving": "100g",
+        "calories": "45 cal"
+    },
+    {
+        "title": "Cream of Celery Soup",
+        "serving": "100g",
+        "calories": "37 cal"
+    },
+    {
+        "title": "Cream of Chicken Soup",
+        "serving": "100g",
+        "calories": "48 cal"
+    },
+    {
+        "title": "Cream of Mushroom Soup",
+        "serving": "100g",
+        "calories": "39 cal"
+    },
+    {
+        "title": "Cream of Onion Soup",
+        "serving": "100g",
+        "calories": "44 cal"
+    },
+    {
+        "title": "Cream of Potato Soup",
+        "serving": "100g",
+        "calories": "30 cal"
+    },
+    {
+        "title": "Creamy Chicken Noodle Soup",
+        "serving": "100g",
+        "calories": "23 cal"
+    },
+    {
+        "title": "French Onion Soup",
+        "serving": "100g",
+        "calories": "23 cal"
+    },
+    {
+        "title": "Golden Mushroom Soup",
+        "serving": "100g",
+        "calories": "65 cal"
+    },
+    {
+        "title": "Goulash",
+        "serving": "100g",
+        "calories": "1009 cal"
+    },
+    {
+        "title": "Instant Ramen",
+        "serving": "100g",
+        "calories": "436 cal"
+    },
+    {
+        "title": "Lentil Soup",
+        "serving": "100g",
+        "calories": "56 cal"
+    },
+    {
+        "title": "Lobster Bisque Soup",
+        "serving": "100g",
+        "calories": "100 cal"
+    },
+    {
+        "title": "Meatball Soup",
+        "serving": "100g",
+        "calories": "49 cal"
+    },
+    {
+        "title": "Minestrone",
+        "serving": "100g",
+        "calories": "34 cal"
+    },
+    {
+        "title": "Mushroom Soup",
+        "serving": "100g",
+        "calories": "35 cal"
+    },
+    {
+        "title": "Noodle Soup",
+        "serving": "100g",
+        "calories": "34 cal"
+    },
+    {
+        "title": "Onion Soup",
+        "serving": "100g",
+        "calories": "23 cal"
+    },
+    {
+        "title": "Oxtail Soup",
+        "serving": "100g",
+        "calories": "28 cal"
+    },
+    {
+        "title": "Pea Soup",
+        "serving": "100g",
+        "calories": "75 cal"
+    },
+    {
+        "title": "Potato Soup",
+        "serving": "100g",
+        "calories": "80 cal"
+    },
+    {
+        "title": "Pumpkin Soup",
+        "serving": "100g",
+        "calories": "29 cal"
+    },
+    {
+        "title": "Ramen",
+        "serving": "100g",
+        "calories": "436 cal"
+    },
+    {
+        "title": "Scotch Broth",
+        "serving": "100g",
+        "calories": "33 cal"
+    },
+    {
+        "title": "Succotash",
+        "serving": "100g",
+        "calories": "115 cal"
+    },
+    {
+        "title": "Thai Soup",
+        "serving": "100g",
+        "calories": "60 cal"
+    },
+    {
+        "title": "Tomato Rice Soup",
+        "serving": "100g",
+        "calories": "47 cal"
+    },
+    {
+        "title": "Tomato Soup",
+        "serving": "100g",
+        "calories": "30 cal"
+    },
+    {
+        "title": "Vegetable Beef Soup",
+        "serving": "100g",
+        "calories": "31 cal"
+    },
+    {
+        "title": "Vegetable Broth",
+        "serving": "100g",
+        "calories": "5 cal"
+    },
+    {
+        "title": "Vegetable Soup",
+        "serving": "100g",
+        "calories": "28 cal"
+    },
+    {
+        "title": "Vegetable Stock",
+        "serving": "100g",
+        "calories": "5 cal"
+    },
+    {
+        "title": "Wedding Soup",
+        "serving": "100g",
+        "calories": "53 cal"
+    }
+]

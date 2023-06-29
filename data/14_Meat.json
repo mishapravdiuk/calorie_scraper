@@ -1,0 +1,232 @@
+[
+    {
+        "title": "Alligator",
+        "serving": "100g",
+        "calories": "232 cal"
+    },
+    {
+        "title": "Beef",
+        "serving": "100g",
+        "calories": "248 cal"
+    },
+    {
+        "title": "Beef Brisket",
+        "serving": "100g",
+        "calories": "242 cal"
+    },
+    {
+        "title": "Beef Jerky",
+        "serving": "100g",
+        "calories": "410 cal"
+    },
+    {
+        "title": "Beef Ribs",
+        "serving": "100g",
+        "calories": "238 cal"
+    },
+    {
+        "title": "Beef Tenderloin",
+        "serving": "100g",
+        "calories": "218 cal"
+    },
+    {
+        "title": "Chicken",
+        "serving": "100g",
+        "calories": "219 cal"
+    },
+    {
+        "title": "Chicken Breast",
+        "serving": "100g",
+        "calories": "172 cal"
+    },
+    {
+        "title": "Chicken Drumstick",
+        "serving": "100g",
+        "calories": "185 cal"
+    },
+    {
+        "title": "Chicken Fat",
+        "serving": "100g",
+        "calories": "898 cal"
+    },
+    {
+        "title": "Chicken Giblets",
+        "serving": "100g",
+        "calories": "158 cal"
+    },
+    {
+        "title": "Chicken Gizzards",
+        "serving": "100g",
+        "calories": "146 cal"
+    },
+    {
+        "title": "Chicken Leg",
+        "serving": "100g",
+        "calories": "174 cal"
+    },
+    {
+        "title": "Chicken Liver",
+        "serving": "100g",
+        "calories": "167 cal"
+    },
+    {
+        "title": "Chicken Meat",
+        "serving": "100g",
+        "calories": "172 cal"
+    },
+    {
+        "title": "Chicken Thigh",
+        "serving": "100g",
+        "calories": "229 cal"
+    },
+    {
+        "title": "Chicken Wing",
+        "serving": "100g",
+        "calories": "266 cal"
+    },
+    {
+        "title": "Chuck Steak",
+        "serving": "100g",
+        "calories": "277 cal"
+    },
+    {
+        "title": "Cubed Steak",
+        "serving": "100g",
+        "calories": "199 cal"
+    },
+    {
+        "title": "Duck",
+        "serving": "100g",
+        "calories": "337 cal"
+    },
+    {
+        "title": "Filet Mignon",
+        "serving": "100g",
+        "calories": "267 cal"
+    },
+    {
+        "title": "Flank Steak",
+        "serving": "100g",
+        "calories": "194 cal"
+    },
+    {
+        "title": "Flat Iron Steak",
+        "serving": "100g",
+        "calories": "137 cal"
+    },
+    {
+        "title": "Ground Beef",
+        "serving": "100g",
+        "calories": "246 cal"
+    },
+    {
+        "title": "Ground Round",
+        "serving": "100g",
+        "calories": "246 cal"
+    },
+    {
+        "title": "Ham",
+        "serving": "100g",
+        "calories": "163 cal"
+    },
+    {
+        "title": "New York Strip Steak",
+        "serving": "100g",
+        "calories": "199 cal"
+    },
+    {
+        "title": "Ostrich",
+        "serving": "100g",
+        "calories": "145 cal"
+    },
+    {
+        "title": "Pork",
+        "serving": "100g",
+        "calories": "196 cal"
+    },
+    {
+        "title": "Pork Baby Back Ribs",
+        "serving": "100g",
+        "calories": "212 cal"
+    },
+    {
+        "title": "Pork Chops",
+        "serving": "100g",
+        "calories": "196 cal"
+    },
+    {
+        "title": "Pork Country-Style Ribs",
+        "serving": "100g",
+        "calories": "247 cal"
+    },
+    {
+        "title": "Pork Loin",
+        "serving": "100g",
+        "calories": "204 cal"
+    },
+    {
+        "title": "Pork Roast",
+        "serving": "100g",
+        "calories": "254 cal"
+    },
+    {
+        "title": "Pork Steaks",
+        "serving": "100g",
+        "calories": "196 cal"
+    },
+    {
+        "title": "Roast Beef",
+        "serving": "100g",
+        "calories": "140 cal"
+    },
+    {
+        "title": "Round Steak",
+        "serving": "100g",
+        "calories": "182 cal"
+    },
+    {
+        "title": "Schnitzel",
+        "serving": "100g",
+        "calories": "156 cal"
+    },
+    {
+        "title": "Spare Ribs",
+        "serving": "100g",
+        "calories": "238 cal"
+    },
+    {
+        "title": "Standing Rib Roast",
+        "serving": "100g",
+        "calories": "333 cal"
+    },
+    {
+        "title": "T-Bone Steak",
+        "serving": "100g",
+        "calories": "202 cal"
+    },
+    {
+        "title": "Turkey",
+        "serving": "100g",
+        "calories": "189 cal"
+    },
+    {
+        "title": "Turkey Breast",
+        "serving": "100g",
+        "calories": "135 cal"
+    },
+    {
+        "title": "Turkey Legs",
+        "serving": "100g",
+        "calories": "208 cal"
+    },
+    {
+        "title": "Turkey Steak",
+        "serving": "100g",
+        "calories": "189 cal"
+    },
+    {
+        "title": "Turkey Wings",
+        "serving": "100g",
+        "calories": "221 cal"
+    }
+]

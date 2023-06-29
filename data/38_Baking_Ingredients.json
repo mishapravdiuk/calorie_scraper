@@ -1,0 +1,477 @@
+[
+    {
+        "title": "Agar-Agar",
+        "serving": "100g",
+        "calories": "26 cal"
+    },
+    {
+        "title": "Agave Syrup",
+        "serving": "100ml",
+        "calories": "310 cal"
+    },
+    {
+        "title": "All Purpose Flour",
+        "serving": "100ml",
+        "calories": "364 cal"
+    },
+    {
+        "title": "Almond Extract",
+        "serving": "100ml",
+        "calories": "258 cal"
+    },
+    {
+        "title": "Almonds",
+        "serving": "100g",
+        "calories": "529 cal"
+    },
+    {
+        "title": "Apple Pie Filling",
+        "serving": "100g",
+        "calories": "100 cal"
+    },
+    {
+        "title": "Baking Powder",
+        "serving": "100g",
+        "calories": "53 cal"
+    },
+    {
+        "title": "Baking Soda",
+        "serving": "100g",
+        "calories": "0 cal"
+    },
+    {
+        "title": "Bread Flour",
+        "serving": "100g",
+        "calories": "361 cal"
+    },
+    {
+        "title": "Brittle",
+        "serving": "100g",
+        "calories": "592 cal"
+    },
+    {
+        "title": "Brown Sugar",
+        "serving": "100g",
+        "calories": "395 cal"
+    },
+    {
+        "title": "Buttermilk",
+        "serving": "100ml",
+        "calories": "62 cal"
+    },
+    {
+        "title": "Butterscotch Chips",
+        "serving": "100g",
+        "calories": "539 cal"
+    },
+    {
+        "title": "Cake Flour",
+        "serving": "100g",
+        "calories": "362 cal"
+    },
+    {
+        "title": "Candied Orange Peel",
+        "serving": "100g",
+        "calories": "97 cal"
+    },
+    {
+        "title": "Cane Sugar",
+        "serving": "100g",
+        "calories": "387 cal"
+    },
+    {
+        "title": "Chocolate Chips",
+        "serving": "100g",
+        "calories": "467 cal"
+    },
+    {
+        "title": "Chocolate Sprinkles",
+        "serving": "100g",
+        "calories": "500 cal"
+    },
+    {
+        "title": "Cocoa Powder",
+        "serving": "100g",
+        "calories": "228 cal"
+    },
+    {
+        "title": "Coconut Flakes",
+        "serving": "100g",
+        "calories": "456 cal"
+    },
+    {
+        "title": "Coconut Milk",
+        "serving": "100ml",
+        "calories": "50 cal"
+    },
+    {
+        "title": "Corn Flour",
+        "serving": "100g",
+        "calories": "361 cal"
+    },
+    {
+        "title": "Corn Syrup",
+        "serving": "100ml",
+        "calories": "281 cal"
+    },
+    {
+        "title": "Cornmeal",
+        "serving": "100g",
+        "calories": "362 cal"
+    },
+    {
+        "title": "Cornstarch",
+        "serving": "100g",
+        "calories": "381 cal"
+    },
+    {
+        "title": "Couverture",
+        "serving": "100g",
+        "calories": "600 cal"
+    },
+    {
+        "title": "Cream Cheese",
+        "serving": "100g",
+        "calories": "54 cal"
+    },
+    {
+        "title": "Cream of Tartar",
+        "serving": "100g",
+        "calories": "258 cal"
+    },
+    {
+        "title": "Crystallized Ginger",
+        "serving": "100g",
+        "calories": "335 cal"
+    },
+    {
+        "title": "Custard Powder",
+        "serving": "100g",
+        "calories": "337 cal"
+    },
+    {
+        "title": "Dark Rum",
+        "serving": "100ml",
+        "calories": "216 cal"
+    },
+    {
+        "title": "Dextrose",
+        "serving": "100g",
+        "calories": "375 cal"
+    },
+    {
+        "title": "Dried Apricots",
+        "serving": "100g",
+        "calories": "241 cal"
+    },
+    {
+        "title": "Dried Cranberries",
+        "serving": "100g",
+        "calories": "308 cal"
+    },
+    {
+        "title": "Dried Figs",
+        "serving": "100g",
+        "calories": "249 cal"
+    },
+    {
+        "title": "Dried Prunes",
+        "serving": "100g",
+        "calories": "107 cal"
+    },
+    {
+        "title": "Duck Egg",
+        "serving": "100g",
+        "calories": "185 cal"
+    },
+    {
+        "title": "Egg",
+        "serving": "100g",
+        "calories": "97 cal"
+    },
+    {
+        "title": "Egg Nog",
+        "serving": "100g",
+        "calories": "88 cal"
+    },
+    {
+        "title": "Egg White",
+        "serving": "100g",
+        "calories": "13 cal"
+    },
+    {
+        "title": "Egg Yolk",
+        "serving": "100g",
+        "calories": "322 cal"
+    },
+    {
+        "title": "Evaporated Milk",
+        "serving": "100g",
+        "calories": "134 cal"
+    },
+    {
+        "title": "Flour",
+        "serving": "100g",
+        "calories": "364 cal"
+    },
+    {
+        "title": "Fructose",
+        "serving": "100g",
+        "calories": "368 cal"
+    },
+    {
+        "title": "Gelatin",
+        "serving": "100g",
+        "calories": "335 cal"
+    },
+    {
+        "title": "Glucose",
+        "serving": "100g",
+        "calories": "286 cal"
+    },
+    {
+        "title": "Glucose Syrup",
+        "serving": "100g",
+        "calories": "387 cal"
+    },
+    {
+        "title": "Granulated Sugar",
+        "serving": "100g",
+        "calories": "387 cal"
+    },
+    {
+        "title": "Ground Cinnamon",
+        "serving": "100g",
+        "calories": "247 cal"
+    },
+    {
+        "title": "Hazelnuts",
+        "serving": "100g",
+        "calories": "628 cal"
+    },
+    {
+        "title": "Heavy Cream",
+        "serving": "100g",
+        "calories": "345 cal"
+    },
+    {
+        "title": "Jaggery",
+        "serving": "100g",
+        "calories": "383 cal"
+    },
+    {
+        "title": "Lemon Pie Filling",
+        "serving": "100g",
+        "calories": "143 cal"
+    },
+    {
+        "title": "Malt Powder",
+        "serving": "100g",
+        "calories": "361 cal"
+    },
+    {
+        "title": "Malted Milk",
+        "serving": "100g",
+        "calories": "405 cal"
+    },
+    {
+        "title": "Maltitol",
+        "serving": "100g",
+        "calories": "210 cal"
+    },
+    {
+        "title": "Maltodextrin",
+        "serving": "100g",
+        "calories": "375 cal"
+    },
+    {
+        "title": "Maltose",
+        "serving": "100g",
+        "calories": "344 cal"
+    },
+    {
+        "title": "Maple Syrup",
+        "serving": "100ml",
+        "calories": "270 cal"
+    },
+    {
+        "title": "Molasses",
+        "serving": "100g",
+        "calories": "290 cal"
+    },
+    {
+        "title": "Nonpareils",
+        "serving": "100g",
+        "calories": "475 cal"
+    },
+    {
+        "title": "Peppermint Extract",
+        "serving": "100ml",
+        "calories": "0 cal"
+    },
+    {
+        "title": "Poppy Seeds",
+        "serving": "100g",
+        "calories": "525 cal"
+    },
+    {
+        "title": "Powdered Milk",
+        "serving": "100g",
+        "calories": "496 cal"
+    },
+    {
+        "title": "Powdered Sugar",
+        "serving": "100g",
+        "calories": "389 cal"
+    },
+    {
+        "title": "Protein Powder",
+        "serving": "100g",
+        "calories": "411 cal"
+    },
+    {
+        "title": "Raisins",
+        "serving": "100g",
+        "calories": "474 cal"
+    },
+    {
+        "title": "Rice Milk",
+        "serving": "100ml",
+        "calories": "49 cal"
+    },
+    {
+        "title": "Rock Sugar",
+        "serving": "100g",
+        "calories": "625 cal"
+    },
+    {
+        "title": "Rolled Oats",
+        "serving": "100g",
+        "calories": "384 cal"
+    },
+    {
+        "title": "Rum",
+        "serving": "100ml",
+        "calories": "246 cal"
+    },
+    {
+        "title": "Semolina Flour",
+        "serving": "100g",
+        "calories": "350 cal"
+    },
+    {
+        "title": "Sesame Seeds",
+        "serving": "100g",
+        "calories": "573 cal"
+    },
+    {
+        "title": "Shredded Coconut",
+        "serving": "100g",
+        "calories": "501 cal"
+    },
+    {
+        "title": "Sorbitol",
+        "serving": "100g",
+        "calories": "375 cal"
+    },
+    {
+        "title": "Soy Milk",
+        "serving": "100ml",
+        "calories": "41 cal"
+    },
+    {
+        "title": "Soy Protein Powder",
+        "serving": "100g",
+        "calories": "338 cal"
+    },
+    {
+        "title": "Sprinkles",
+        "serving": "100g",
+        "calories": "500 cal"
+    },
+    {
+        "title": "Starch",
+        "serving": "100g",
+        "calories": "381 cal"
+    },
+    {
+        "title": "Strawberry Preserves",
+        "serving": "100g",
+        "calories": "278 cal"
+    },
+    {
+        "title": "Sucrose",
+        "serving": "100g",
+        "calories": "387 cal"
+    },
+    {
+        "title": "Sugar",
+        "serving": "100g",
+        "calories": "405 cal"
+    },
+    {
+        "title": "Sunflower Seeds",
+        "serving": "100g",
+        "calories": "117 cal"
+    },
+    {
+        "title": "Sweetened Condensed Milk",
+        "serving": "100ml",
+        "calories": "321 cal"
+    },
+    {
+        "title": "Sweetener",
+        "serving": "100g",
+        "calories": "360 cal"
+    },
+    {
+        "title": "Unsalted Butter",
+        "serving": "100g",
+        "calories": "717 cal"
+    },
+    {
+        "title": "Vanilla Extract",
+        "serving": "100ml",
+        "calories": "288 cal"
+    },
+    {
+        "title": "Vanilla Sugar",
+        "serving": "100g",
+        "calories": "357 cal"
+    },
+    {
+        "title": "Vegetable Oil",
+        "serving": "100g",
+        "calories": "884 cal"
+    },
+    {
+        "title": "Vegetable Shortening",
+        "serving": "100g",
+        "calories": "884 cal"
+    },
+    {
+        "title": "Walnuts",
+        "serving": "100g",
+        "calories": "131 cal"
+    },
+    {
+        "title": "Whole Milk",
+        "serving": "100ml",
+        "calories": "61 cal"
+    },
+    {
+        "title": "Whole Wheat Flour",
+        "serving": "100g",
+        "calories": "340 cal"
+    },
+    {
+        "title": "Xylitol",
+        "serving": "100g",
+        "calories": "240 cal"
+    },
+    {
+        "title": "Yeast (dry)",
+        "serving": "100g",
+        "calories": "325 cal"
+    }
+]
